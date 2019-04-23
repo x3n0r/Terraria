@@ -1,0 +1,9 @@
+{
+  "checkNormalAccessoriesForBags": true,
+  "checkSocialAccessoriesForBags": false,
+  "checkHotbarForBags": false,
+  "checkInventoryForBags": false,
+  "tryPlaceItemInInventory": true,
+  "playSoundOnPickup": false,
+  "displayTagOnTooltip": false
+}

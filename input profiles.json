@@ -502,7 +502,7 @@
       "Left": ["A"],
       "Right": ["D"],
       "Jump": ["Space"],
-      "Throw": ["T"],
+      "Throw": ["OemQuotes"],
       "Inventory": ["Escape"],
       "Grapple": ["E"],
       "SmartSelect": ["LeftShift"],
@@ -527,8 +527,8 @@
       "Hotbar8": ["D8"],
       "Hotbar9": ["D9"],
       "Hotbar10": ["D0"],
-      "ViewZoomIn": ["OemPlus"],
-      "ViewZoomOut": ["OemMinus"]
+      "ViewZoomIn": ["PageUp"],
+      "ViewZoomOut": ["PageDown"]
     },
     "Gamepad": 
     {

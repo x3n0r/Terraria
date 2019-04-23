@@ -1,0 +1,7302 @@
+{
+  "recipeBrowserVersion": "0.7.2",
+  "lastUpdateTime": 30,
+  "cachedMods": {
+    "WingSlot": "1.6.2",
+    "MaxStackExtra": "1.0.2",
+    "MagicStorage": "0.4.3.3",
+    "JPANsBagsOfHoldingMod": "1.4",
+    "AlchemistNPC": "8.4",
+    "ThoriumMod": "1.6.0.0",
+    "Terraria": "0.10.1.5",
+    "BossExpertise": "2.8",
+    "TPUnchained": "1.1",
+    "BossCursor": "1.2.1",
+    "BossChecklist": "0.2.1"
+  },
+  "lootInfos": {
+    "Terraria\t\t0": [
+      {
+        "mod": "Terraria",
+        "name": "Blue Slime",
+        "id": 1
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AggroDummy"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BlackWidow"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BlackWidowWall"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Blowfish"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Hammerhead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AquaiusBubblePrime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "Terraria\tGel\t23": [
+      {
+        "mod": "Terraria",
+        "name": "Blue Slime",
+        "id": 1
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mother Slime",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Slime",
+        "id": 81
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gastropod",
+        "id": 122
+      },
+      {
+        "mod": "Terraria",
+        "name": "Illuminant Slime",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Toxic Sludge",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ice Slime",
+        "id": 147
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimslime",
+        "id": 183
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Ice Slime",
+        "id": 184
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Jungle Slime",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Umbrella Slime",
+        "id": 225
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rainbow Slime",
+        "id": 244
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 302
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 336
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Slime",
+        "id": 535
+      },
+      {
+        "mod": "Terraria",
+        "name": "Sand Slime",
+        "id": 537
+      }
+    ],
+    "Terraria\tSlime Staff\t1309": [
+      {
+        "mod": "Terraria",
+        "name": "Blue Slime",
+        "id": 1
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mother Slime",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Illuminant Slime",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Toxic Sludge",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ice Slime",
+        "id": 147
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Ice Slime",
+        "id": 184
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Jungle Slime",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 302
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 336
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Slime",
+        "id": 535
+      },
+      {
+        "mod": "Terraria",
+        "name": "Sand Slime",
+        "id": 537
+      }
+    ],
+    "Terraria\tLens\t38": [
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 2
+      },
+      {
+        "mod": "Terraria",
+        "name": "Wandering Eye",
+        "id": 133
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 190
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 191
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 192
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 193
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 194
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 317
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 318
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GorgedEye"
+      }
+    ],
+    "Terraria\tBlack Lens\t236": [
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 2
+      },
+      {
+        "mod": "Terraria",
+        "name": "Wandering Eye",
+        "id": 133
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 191
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 192
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 193
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demon Eye",
+        "id": 317
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GorgedEye"
+      }
+    ],
+    "Terraria\tShackle\t216": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 3
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 132
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 188
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 189
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 200
+      },
+      {
+        "mod": "Terraria",
+        "name": "Raincoat Zombie",
+        "id": 223
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 319
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 320
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 321
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 331
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 332
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 430
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 431
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 432
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 433
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 434
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 435
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 436
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Biter"
+      }
+    ],
+    "Terraria\tZombie Arm\t1304": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 3
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 132
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 188
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 189
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 200
+      },
+      {
+        "mod": "Terraria",
+        "name": "Raincoat Zombie",
+        "id": 223
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 319
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 320
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 321
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 331
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 332
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 430
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 431
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 432
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 433
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 434
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 435
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 436
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Biter"
+      }
+    ],
+    "AlchemistNPC\tAlchemistCharmTier1": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tTreasure Bag\t3319": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron",
+        "id": 35
+      },
+      {
+        "mod": "Terraria",
+        "name": "King Slime",
+        "id": 50
+      },
+      {
+        "mod": "Terraria",
+        "name": "Wall of Flesh",
+        "id": 113
+      },
+      {
+        "mod": "Terraria",
+        "name": "Retinazer",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatism",
+        "id": 126
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron Prime",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "The Destroyer",
+        "id": 134
+      },
+      {
+        "mod": "Terraria",
+        "name": "Queen Bee",
+        "id": 222
+      },
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      },
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      },
+      {
+        "mod": "Terraria",
+        "name": "Brain of Cthulhu",
+        "id": 266
+      },
+      {
+        "mod": "Terraria",
+        "name": "Duke Fishron",
+        "id": 370
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Core",
+        "id": 398
+      },
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tEye of Cthulhu Trophy\t1360": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tLesser Healing Potion\t28": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron",
+        "id": 35
+      },
+      {
+        "mod": "Terraria",
+        "name": "King Slime",
+        "id": 50
+      },
+      {
+        "mod": "Terraria",
+        "name": "Brain of Cthulhu",
+        "id": 266
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord",
+        "id": 396
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Hand",
+        "id": 397
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStrider"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "AlchemistNPC\tPaperTube": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron",
+        "id": 35
+      },
+      {
+        "mod": "Terraria",
+        "name": "Queen Bee",
+        "id": 222
+      },
+      {
+        "mod": "Terraria",
+        "name": "Brain of Cthulhu",
+        "id": 266
+      }
+    ],
+    "MagicStorage\tShadowDiamond": [
+      {
+        "mod": "Terraria",
+        "name": "Eye of Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 13
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron",
+        "id": 35
+      },
+      {
+        "mod": "Terraria",
+        "name": "King Slime",
+        "id": 50
+      },
+      {
+        "mod": "Terraria",
+        "name": "Wall of Flesh",
+        "id": 113
+      },
+      {
+        "mod": "Terraria",
+        "name": "Retinazer",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron Prime",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "The Destroyer",
+        "id": 134
+      },
+      {
+        "mod": "Terraria",
+        "name": "Queen Bee",
+        "id": 222
+      },
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      },
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      },
+      {
+        "mod": "Terraria",
+        "name": "Duke Fishron",
+        "id": 370
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Core",
+        "id": 398
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lunatic Cultist",
+        "id": 439
+      }
+    ],
+    "Terraria\tAncient Shadow Helmet\t956": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Souls",
+        "id": 6
+      }
+    ],
+    "Terraria\tRotten Chunk\t68": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Souls",
+        "id": 6
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 7
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 8
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 9
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corruptor",
+        "id": 94
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "ChilledSpitter"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FesteringWalker"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Freezer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostWormHead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "HorrificCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowEater"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TheInnocent"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TheStarved"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "VileFloater"
+      }
+    ],
+    "Terraria\tAncient Shadow Greaves\t958": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Souls",
+        "id": 6
+      }
+    ],
+    "Terraria\tAncient Shadow Scalemail\t957": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Souls",
+        "id": 6
+      }
+    ],
+    "Terraria\tWorm Tooth\t69": [
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 7
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 8
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devourer",
+        "id": 9
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostWormHead"
+      }
+    ],
+    "Terraria\tWhoopie Cushion\t215": [
+      {
+        "mod": "Terraria",
+        "name": "Giant Worm",
+        "id": 10
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Worm",
+        "id": 11
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Worm",
+        "id": 12
+      },
+      {
+        "mod": "Terraria",
+        "name": "Digger",
+        "id": 95
+      },
+      {
+        "mod": "Terraria",
+        "name": "Digger",
+        "id": 96
+      },
+      {
+        "mod": "Terraria",
+        "name": "Digger",
+        "id": 97
+      }
+    ],
+    "Terraria\tShadow Scale\t86": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 13
+      },
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 14
+      },
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 15
+      }
+    ],
+    "Terraria\tDemonite Ore\t56": [
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 13
+      },
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 14
+      },
+      {
+        "mod": "Terraria",
+        "name": "Eater of Worlds",
+        "id": 15
+      }
+    ],
+    "Terraria\tCompass\t393": [
+      {
+        "mod": "Terraria",
+        "name": "Mother Slime",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Undead Viking",
+        "id": 167
+      },
+      {
+        "mod": "Terraria",
+        "name": "Snow Flinx",
+        "id": 185
+      },
+      {
+        "mod": "Terraria",
+        "name": "Armored Viking",
+        "id": 197
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 506
+      }
+    ],
+    "ThoriumMod\tEskimoBanjo": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowSinga"
+      }
+    ],
+    "Terraria\tAncient Iron Helmet\t954": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 452
+      }
+    ],
+    "Terraria\tHook\t118": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      },
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Undead Viking",
+        "id": 167
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 452
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "Terraria\tBone Sword\t1166": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 452
+      }
+    ],
+    "Terraria\tAncient Gold Helmet\t955": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 452
+      }
+    ],
+    "Terraria\tMeteorite\t116": [
+      {
+        "mod": "Terraria",
+        "name": "Meteor Head",
+        "id": 23
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SpaceSlime"
+      }
+    ],
+    "Terraria\tObsidian Rose\t1323": [
+      {
+        "mod": "Terraria",
+        "name": "Fire Imp",
+        "id": 24
+      }
+    ],
+    "Terraria\tPlumber's Hat\t244": [
+      {
+        "mod": "Terraria",
+        "name": "Fire Imp",
+        "id": 24
+      }
+    ],
+    "Terraria\tHarpoon\t160": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Peon",
+        "id": 26
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Thief",
+        "id": 27
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Warrior",
+        "id": 28
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Sorcerer",
+        "id": 29
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Archer",
+        "id": 111
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinDrummer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinTrapper"
+      }
+    ],
+    "ThoriumMod\tHailBomber": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowSinga"
+      }
+    ],
+    "Terraria\tSpiky Ball\t161": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Peon",
+        "id": 26
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Thief",
+        "id": 27
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Warrior",
+        "id": 28
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Sorcerer",
+        "id": 29
+      },
+      {
+        "mod": "Terraria",
+        "name": "Goblin Archer",
+        "id": 111
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinDrummer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinSpiritGuide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinTrapper"
+      }
+    ],
+    "Terraria\tAncient Necro Helmet\t959": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 294
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 295
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 296
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tClothier Voodoo Doll\t1307": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 294
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 295
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 296
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tBone Wand\t932": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cursed Skull",
+        "id": 34
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tBone\t154": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cursed Skull",
+        "id": 34
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tTally Counter\t3095": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cursed Skull",
+        "id": 34
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DarksteelKnight"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GelatinousCube"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tGolden Key\t327": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Bones",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Caster",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cursed Skull",
+        "id": 34
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dungeon Slime",
+        "id": 71
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DarksteelKnight"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GelatinousCube"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
+      }
+    ],
+    "Terraria\tNazar\t891": [
+      {
+        "mod": "Terraria",
+        "name": "Cursed Skull",
+        "id": 34
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cursed Hammer",
+        "id": 83
+      },
+      {
+        "mod": "Terraria",
+        "name": "Enchanted Sword",
+        "id": 84
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimson Axe",
+        "id": 179
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroPot"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tBallnChain": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "Terraria\tSkeletron Trophy\t1363": [
+      {
+        "mod": "Terraria",
+        "name": "Skeletron",
+        "id": 35
+      }
+    ],
+    "ThoriumMod\tDistressCaller": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tBezoar\t887": [
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Toxic Sludge",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moss Hornet",
+        "id": 176
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 235
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      }
+    ],
+    "Terraria\tAncient Cobalt Helmet\t960": [
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Man Eater",
+        "id": 43
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 235
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      }
+    ],
+    "Terraria\tStinger\t209": [
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spiked Jungle Slime",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 235
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GreenHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DragonHornet"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FleshyHornet"
+      }
+    ],
+    "Terraria\tAncient Cobalt Breastplate\t961": [
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Man Eater",
+        "id": 43
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 235
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      }
+    ],
+    "Terraria\tAncient Cobalt Leggings\t962": [
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Man Eater",
+        "id": 43
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hornet",
+        "id": 235
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      }
+    ],
+    "Terraria\tVine\t210": [
+      {
+        "mod": "Terraria",
+        "name": "Man Eater",
+        "id": 43
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomStalker"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CorpseBloom"
+      }
+    ],
+    "Terraria\tBone Pickaxe\t1320": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      }
+    ],
+    "Terraria\tMining Helmet\t88": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      }
+    ],
+    "Terraria\tBomb\t166": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Gnome1"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Gnome2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Gnome3"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Gnome4"
+      }
+    ],
+    "Terraria\tMining Pants\t411": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      }
+    ],
+    "Terraria\tMining Shirt\t410": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Miner",
+        "id": 44
+      }
+    ],
+    "Terraria\tWizard Hat\t238": [
+      {
+        "mod": "Terraria",
+        "name": "Tim",
+        "id": 45
+      }
+    ],
+    "Terraria\tBunny Hood\t243": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Bunny",
+        "id": 47
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimtane Bunny",
+        "id": 464
+      }
+    ],
+    "Terraria\tGiant Harpy Feather\t1516": [
+      {
+        "mod": "Terraria",
+        "name": "Harpy",
+        "id": 48
+      }
+    ],
+    "Terraria\tFeather\t320": [
+      {
+        "mod": "Terraria",
+        "name": "Harpy",
+        "id": 48
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CyanHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Nestling"
+      }
+    ],
+    "ThoriumMod\tGaussKnife": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tChain Knife\t1325": [
+      {
+        "mod": "Terraria",
+        "name": "Cave Bat",
+        "id": 49
+      }
+    ],
+    "Terraria\tDepth Meter\t18": [
+      {
+        "mod": "Terraria",
+        "name": "Cave Bat",
+        "id": 49
+      },
+      {
+        "mod": "Terraria",
+        "name": "Jungle Bat",
+        "id": 51
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Bat",
+        "id": 93
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ice Bat",
+        "id": 150
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 506
+      }
+    ],
+    "Terraria\tKing Slime Trophy\t2489": [
+      {
+        "mod": "Terraria",
+        "name": "King Slime",
+        "id": 50
+      }
+    ],
+    "Terraria\tArchaeologist's Hat\t251": [
+      {
+        "mod": "Terraria",
+        "name": "Doctor Bones",
+        "id": 52
+      }
+    ],
+    "ThoriumMod\tStarRod": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tTop Hat\t239": [
+      {
+        "mod": "Terraria",
+        "name": "The Groom",
+        "id": 53
+      }
+    ],
+    "Terraria\tRed Hat\t260": [
+      {
+        "mod": "Terraria",
+        "name": "Clothier",
+        "id": 54
+      }
+    ],
+    "Terraria\tRobot Hat\t263": [
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Angler Fish",
+        "id": 102
+      }
+    ],
+    "Terraria\tMagma Stone\t1322": [
+      {
+        "mod": "Terraria",
+        "name": "Hellbat",
+        "id": 60
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lava Bat",
+        "id": 151
+      }
+    ],
+    "ThoriumMod\tStarTrail": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tDemon Scythe\t272": [
+      {
+        "mod": "Terraria",
+        "name": "Demon",
+        "id": 62
+      },
+      {
+        "mod": "Terraria",
+        "name": "Voodoo Demon",
+        "id": 66
+      }
+    ],
+    "Terraria\tJellyfish Necklace\t1303": [
+      {
+        "mod": "Terraria",
+        "name": "Blue Jellyfish",
+        "id": 63
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pink Jellyfish",
+        "id": 64
+      },
+      {
+        "mod": "Terraria",
+        "name": "Green Jellyfish",
+        "id": 103
+      }
+    ],
+    "Terraria\tGlowstick\t282": [
+      {
+        "mod": "Terraria",
+        "name": "Blue Jellyfish",
+        "id": 63
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pink Jellyfish",
+        "id": 64
+      },
+      {
+        "mod": "Terraria",
+        "name": "Green Jellyfish",
+        "id": 103
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "ManofWar"
+      }
+    ],
+    "ThoriumMod\tHitScanner": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tDiving Helmet\t268": [
+      {
+        "mod": "Terraria",
+        "name": "Shark",
+        "id": 65
+      }
+    ],
+    "Terraria\tShark Fin\t319": [
+      {
+        "mod": "Terraria",
+        "name": "Shark",
+        "id": 65
+      },
+      {
+        "mod": "Terraria",
+        "name": "Sand Shark",
+        "id": 542
+      },
+      {
+        "mod": "Terraria",
+        "name": "Bone Biter",
+        "id": 543
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flesh Reaver",
+        "id": 544
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crystal Thresher",
+        "id": 545
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Hammerhead"
+      }
+    ],
+    "Terraria\tGuide Voodoo Doll\t267": [
+      {
+        "mod": "Terraria",
+        "name": "Voodoo Demon",
+        "id": 66
+      }
+    ],
+    "Terraria\tBone Key\t1169": [
+      {
+        "mod": "Terraria",
+        "name": "Dungeon Guardian",
+        "id": 68
+      }
+    ],
+    "Terraria\tAntlion Mandible\t323": [
+      {
+        "mod": "Terraria",
+        "name": "Antlion",
+        "id": 69
+      },
+      {
+        "mod": "Terraria",
+        "name": "Antlion Charger",
+        "id": 508
+      },
+      {
+        "mod": "Terraria",
+        "name": "Antlion Swarmer",
+        "id": 509
+      }
+    ],
+    "Terraria\tTattered Cloth\t362": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Scout",
+        "id": 73
+      }
+    ],
+    "Terraria\tBlessed Apple\t3260": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Enchanted Sword",
+        "id": 84
+      },
+      {
+        "mod": "Terraria",
+        "name": "Unicorn",
+        "id": 86
+      },
+      {
+        "mod": "Terraria",
+        "name": "Chaos Elemental",
+        "id": 120
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gastropod",
+        "id": 122
+      },
+      {
+        "mod": "Terraria",
+        "name": "Illuminant Bat",
+        "id": 137
+      },
+      {
+        "mod": "Terraria",
+        "name": "Illuminant Slime",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pigron",
+        "id": 171
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rainbow Slime",
+        "id": 244
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DissonanceSeer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "Terraria\tFast Clock\t889": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mummy",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Wraith",
+        "id": 82
+      }
+    ],
+    "Terraria\tMegaphone\t890": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Green Jellyfish",
+        "id": 103
+      }
+    ],
+    "Terraria\tPixie Dust\t501": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      }
+    ],
+    "ThoriumMod\tGaussSpark": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tBeam Sword\t723": [
+      {
+        "mod": "Terraria",
+        "name": "Armored Skeleton",
+        "id": 77
+      }
+    ],
+    "Terraria\tArmor Polish\t886": [
+      {
+        "mod": "Terraria",
+        "name": "Armored Skeleton",
+        "id": 77
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 276
+      }
+    ],
+    "Terraria\tMummy Mask\t870": [
+      {
+        "mod": "Terraria",
+        "name": "Mummy",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      }
+    ],
+    "Terraria\tMummy Shirt\t871": [
+      {
+        "mod": "Terraria",
+        "name": "Mummy",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      }
+    ],
+    "Terraria\tMummy Pants\t872": [
+      {
+        "mod": "Terraria",
+        "name": "Mummy",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      }
+    ],
+    "Terraria\tBlindfold\t888": [
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Slime",
+        "id": 81
+      }
+    ],
+    "Terraria\tDark Shard\t527": [
+      {
+        "mod": "Terraria",
+        "name": "Dark Mummy",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vile Ghoul",
+        "id": 525
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tainted Ghoul",
+        "id": 526
+      },
+      {
+        "mod": "Terraria",
+        "name": "Bone Biter",
+        "id": 543
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flesh Reaver",
+        "id": 544
+      }
+    ],
+    "Terraria\tTrifold Map\t893": [
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Bat",
+        "id": 93
+      },
+      {
+        "mod": "Terraria",
+        "name": "Clown",
+        "id": 109
+      }
+    ],
+    "Terraria\tLight Shard\t528": [
+      {
+        "mod": "Terraria",
+        "name": "Light Mummy",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dreamer Ghoul",
+        "id": 527
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crystal Thresher",
+        "id": 545
+      }
+    ],
+    "ThoriumMod\tStarMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "ThoriumMod\tScouterTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "Terraria\tUnicorn Horn\t526": [
+      {
+        "mod": "Terraria",
+        "name": "Unicorn",
+        "id": 86
+      }
+    ],
+    "Terraria\tUnicorn on a Stick\t856": [
+      {
+        "mod": "Terraria",
+        "name": "Unicorn",
+        "id": 86
+      }
+    ],
+    "Terraria\tSoul of Flight\t575": [
+      {
+        "mod": "Terraria",
+        "name": "Wyvern",
+        "id": 87
+      }
+    ],
+    "ThoriumMod\tStalkersSnippers": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ScissorStalker"
+      }
+    ],
+    "Terraria\tVitamins\t892": [
+      {
+        "mod": "Terraria",
+        "name": "Corruptor",
+        "id": 94
+      },
+      {
+        "mod": "Terraria",
+        "name": "Floaty Gross",
+        "id": 182
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Freezer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenGross"
+      }
+    ],
+    "Terraria\tCursed Flame\t522": [
+      {
+        "mod": "Terraria",
+        "name": "World Feeder",
+        "id": 98
+      },
+      {
+        "mod": "Terraria",
+        "name": "Clinger",
+        "id": 101
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vile Ghoul",
+        "id": 525
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SoulCorrupter"
+      }
+    ],
+    "Terraria\tAdhesive Bandage\t885": [
+      {
+        "mod": "Terraria",
+        "name": "Angler Fish",
+        "id": 102
+      },
+      {
+        "mod": "Terraria",
+        "name": "Werewolf",
+        "id": 104
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 272
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Lycan"
+      }
+    ],
+    "Terraria\tMoon Charm\t485": [
+      {
+        "mod": "Terraria",
+        "name": "Werewolf",
+        "id": 104
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Lycan"
+      }
+    ],
+    "ThoriumMod\tStoneSledge": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RockBoulderMimic"
+      }
+    ],
+    "Terraria\tBananarang\t1324": [
+      {
+        "mod": "Terraria",
+        "name": "Clown",
+        "id": 109
+      }
+    ],
+    "Terraria\tMagic Quiver\t1321": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Archer",
+        "id": 110
+      }
+    ],
+    "Terraria\tMarrow\t682": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Archer",
+        "id": 110
+      }
+    ],
+    "Terraria\tWall of Flesh Trophy\t1365": [
+      {
+        "mod": "Terraria",
+        "name": "Wall of Flesh",
+        "id": 113
+      }
+    ],
+    "Terraria\tHealing Potion\t188": [
+      {
+        "mod": "Terraria",
+        "name": "Wall of Flesh",
+        "id": 113
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "AlchemistNPC\tPaperTube2": [
+      {
+        "mod": "Terraria",
+        "name": "Wall of Flesh",
+        "id": 113
+      },
+      {
+        "mod": "Terraria",
+        "name": "Retinazer",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatism",
+        "id": 126
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron Prime",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "The Destroyer",
+        "id": 134
+      }
+    ],
+    "Terraria\tRod of Discord\t1326": [
+      {
+        "mod": "Terraria",
+        "name": "Chaos Elemental",
+        "id": 120
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DissonanceSeer"
+      }
+    ],
+    "Terraria\tRetinazer Trophy\t1368": [
+      {
+        "mod": "Terraria",
+        "name": "Retinazer",
+        "id": 125
+      }
+    ],
+    "Terraria\tGreater Healing Potion\t499": [
+      {
+        "mod": "Terraria",
+        "name": "Retinazer",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatism",
+        "id": 126
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeletron Prime",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "The Destroyer",
+        "id": 134
+      },
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      },
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      },
+      {
+        "mod": "Terraria",
+        "name": "Duke Fishron",
+        "id": 370
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Core",
+        "id": 398
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lunatic Cultist",
+        "id": 439
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      },
+      {
+        "mod": "Terraria",
+        "name": "Jungle Mimic",
+        "id": 476
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionReleased"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LichHeadless"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LihzardMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "Terraria\tSpazmatism Trophy\t1369": [
+      {
+        "mod": "Terraria",
+        "name": "Spazmatism",
+        "id": 126
+      }
+    ],
+    "Terraria\tSkeletron Prime Trophy\t1367": [
+      {
+        "mod": "Terraria",
+        "name": "Skeletron Prime",
+        "id": 127
+      }
+    ],
+    "Terraria\tDestroyer Trophy\t1366": [
+      {
+        "mod": "Terraria",
+        "name": "The Destroyer",
+        "id": 134
+      }
+    ],
+    "Terraria\tSnow Block\t593": [
+      {
+        "mod": "Terraria",
+        "name": "Snowman Gangsta",
+        "id": 143
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mister Stabby",
+        "id": 144
+      },
+      {
+        "mod": "Terraria",
+        "name": "Snow Balla",
+        "id": 145
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowSinga"
+      }
+    ],
+    "ThoriumMod\tMinotaurSkull": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
+      }
+    ],
+    "ThoriumMod\tJellyPondWand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tGiantGlowstick": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tConchShell": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tBlunderBuss": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tJellyfishHat": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "Terraria\tTurtle Shell\t1328": [
+      {
+        "mod": "Terraria",
+        "name": "Giant Tortoise",
+        "id": 153
+      }
+    ],
+    "ThoriumMod\tQueensGlowstick": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tSparkingJellyBall": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "Terraria\tFrozen Turtle Shell\t1253": [
+      {
+        "mod": "Terraria",
+        "name": "Ice Tortoise",
+        "id": 154
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "ChilledCannon"
+      }
+    ],
+    "Terraria\tFire Feather\t1518": [
+      {
+        "mod": "Terraria",
+        "name": "Red Devil",
+        "id": 156
+      }
+    ],
+    "Terraria\tUnholy Trident\t683": [
+      {
+        "mod": "Terraria",
+        "name": "Red Devil",
+        "id": 156
+      }
+    ],
+    "Terraria\tBroken Bat Wing\t1520": [
+      {
+        "mod": "Terraria",
+        "name": "Vampire",
+        "id": 158
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vampire",
+        "id": 159
+      }
+    ],
+    "Terraria\tMoon Stone\t900": [
+      {
+        "mod": "Terraria",
+        "name": "Vampire",
+        "id": 158
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vampire",
+        "id": 159
+      }
+    ],
+    "Terraria\tEskimo Hood\t803": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 431
+      }
+    ],
+    "Terraria\tEskimo Coat\t804": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 431
+      }
+    ],
+    "Terraria\tEskimo Pants\t805": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Eskimo",
+        "id": 431
+      }
+    ],
+    "ThoriumMod\tQueenJellyfishTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "Terraria\tPoison Staff\t1308": [
+      {
+        "mod": "Terraria",
+        "name": "Black Recluse",
+        "id": 163
+      },
+      {
+        "mod": "Terraria",
+        "name": "Black Recluse",
+        "id": 238
+      }
+    ],
+    "Terraria\tSpider Fang\t2607": [
+      {
+        "mod": "Terraria",
+        "name": "Black Recluse",
+        "id": 163
+      },
+      {
+        "mod": "Terraria",
+        "name": "Black Recluse",
+        "id": 238
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BlackWidow"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BlackWidowWall"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BrownRecluse"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BrownRecluseWall"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostFang"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostFangWall"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Tarantula"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TarantulaWall"
+      }
+    ],
+    "Terraria\tViking Helmet\t879": [
+      {
+        "mod": "Terraria",
+        "name": "Undead Viking",
+        "id": 167
+      }
+    ],
+    "Terraria\tPedguin's Hood\t3757": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Penguin",
+        "id": 168
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vicious Penguin",
+        "id": 470
+      }
+    ],
+    "Terraria\tPedguin's Jacket\t3758": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Penguin",
+        "id": 168
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vicious Penguin",
+        "id": 470
+      }
+    ],
+    "Terraria\tPedguin's Trousers\t3759": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Penguin",
+        "id": 168
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vicious Penguin",
+        "id": 470
+      }
+    ],
+    "Terraria\tFrost Staff\t726": [
+      {
+        "mod": "Terraria",
+        "name": "Ice Elemental",
+        "id": 169
+      },
+      {
+        "mod": "Terraria",
+        "name": "Icy Merman",
+        "id": 206
+      }
+    ],
+    "Terraria\tBacon\t3532": [
+      {
+        "mod": "Terraria",
+        "name": "Pigron",
+        "id": 170
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pigron",
+        "id": 171
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pigron",
+        "id": 180
+      }
+    ],
+    "Terraria\tRune Hat\t754": [
+      {
+        "mod": "Terraria",
+        "name": "Rune Wizard",
+        "id": 172
+      }
+    ],
+    "Terraria\tRune Robe\t755": [
+      {
+        "mod": "Terraria",
+        "name": "Rune Wizard",
+        "id": 172
+      }
+    ],
+    "Terraria\tVertebrae\t1330": [
+      {
+        "mod": "Terraria",
+        "name": "Crimera",
+        "id": 173
+      },
+      {
+        "mod": "Terraria",
+        "name": "Face Monster",
+        "id": 181
+      },
+      {
+        "mod": "Terraria",
+        "name": "Floaty Gross",
+        "id": 182
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blood Crawler",
+        "id": 239
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blood Crawler",
+        "id": 240
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Clot"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Coolmera"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenFace"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenGross"
+      }
+    ],
+    "ThoriumMod\tSunflareGuitar": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Phantom"
+      }
+    ],
+    "Terraria\tMeat Grinder\t996": [
+      {
+        "mod": "Terraria",
+        "name": "Herpling",
+        "id": 174
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimson Axe",
+        "id": 179
+      },
+      {
+        "mod": "Terraria",
+        "name": "Floaty Gross",
+        "id": 182
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimslime",
+        "id": 183
+      }
+    ],
+    "Terraria\tUzi\t1265": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Trapper",
+        "id": 175
+      }
+    ],
+    "Terraria\tTattered Bee Wing\t1521": [
+      {
+        "mod": "Terraria",
+        "name": "Moss Hornet",
+        "id": 176
+      }
+    ],
+    "Terraria\tSnowball Launcher\t951": [
+      {
+        "mod": "Terraria",
+        "name": "Snow Flinx",
+        "id": 185
+      }
+    ],
+    "Terraria\tWooden Arrow\t40": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie",
+        "id": 432
+      }
+    ],
+    "Terraria\tMetal Detector\t3102": [
+      {
+        "mod": "Terraria",
+        "name": "Lost Girl",
+        "id": 195
+      },
+      {
+        "mod": "Terraria",
+        "name": "Nymph",
+        "id": 196
+      }
+    ],
+    "Terraria\tLizard Egg\t1172": [
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Snake",
+        "id": 226
+      }
+    ],
+    "Terraria\tLihzahrd Power Cell\t1293": [
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Snake",
+        "id": 226
+      }
+    ],
+    "Terraria\tSolar Tablet Fragment\t2766": [
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lihzahrd",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Snake",
+        "id": 226
+      }
+    ],
+    "Terraria\tSkull\t1274": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Skeleton",
+        "id": 451
+      }
+    ],
+    "Terraria\tButterfly Dust\t1611": [
+      {
+        "mod": "Terraria",
+        "name": "Moth",
+        "id": 205
+      }
+    ],
+    "Terraria\tExotic Scimitar\t3349": [
+      {
+        "mod": "Terraria",
+        "name": "Dye Trader",
+        "id": 207
+      }
+    ],
+    "Terraria\tHappy Grenade\t3548": [
+      {
+        "mod": "Terraria",
+        "name": "Party Girl",
+        "id": 208
+      }
+    ],
+    "Terraria\tCoin Gun\t905": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "Terraria\tLucky Coin\t855": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "Terraria\tDiscount Card\t854": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "Terraria\tPirate Staff\t2584": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      }
+    ],
+    "Terraria\tGold Ring\t3033": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "Terraria\tCutlass\t672": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Captain",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "Terraria\tSailor Hat\t1277": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tEye Patch\t1278": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tSailor Shirt\t1279": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tSailor Pants\t1280": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Chair\t1704": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Toilet\t1705": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Door\t1710": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Table\t1716": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Bed\t1720": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Piano\t2379": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Dresser\t2389": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Sofa\t2405": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Sink\t2843": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Chest\t3885": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Bathtub\t2663": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Platform\t3904": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Work Bench\t3910": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Clock\t2238": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Lamp\t2133": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Bookcase\t2137": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Chandelier\t2143": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Lantern\t2147": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Candelabra\t2151": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tGolden Candle\t2155": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tBuccaneer Bandana\t3263": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tBuccaneer Tunic\t3264": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tBuccaneer Pantaloons\t3265": [
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deckhand",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Corsair",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Deadeye",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirate Crossbower",
+        "id": 215
+      }
+    ],
+    "Terraria\tRed Husk\t1115": [
+      {
+        "mod": "Terraria",
+        "name": "Cochineal Beetle",
+        "id": 217
+      }
+    ],
+    "Terraria\tCyan Husk\t1116": [
+      {
+        "mod": "Terraria",
+        "name": "Cyan Beetle",
+        "id": 218
+      }
+    ],
+    "Terraria\tViolet Husk\t1117": [
+      {
+        "mod": "Terraria",
+        "name": "Lac Beetle",
+        "id": 219
+      }
+    ],
+    "Terraria\tPurple Mucos\t1118": [
+      {
+        "mod": "Terraria",
+        "name": "Sea Snail",
+        "id": 220
+      }
+    ],
+    "Terraria\tSeashell\t2625": [
+      {
+        "mod": "Terraria",
+        "name": "Sea Snail",
+        "id": 220
+      }
+    ],
+    "Terraria\tBlack Ink\t1119": [
+      {
+        "mod": "Terraria",
+        "name": "Squid",
+        "id": 221
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Octopus"
+      }
+    ],
+    "Terraria\tStarfish\t2626": [
+      {
+        "mod": "Terraria",
+        "name": "Squid",
+        "id": 221
+      }
+    ],
+    "Terraria\tQueen Bee Trophy\t1364": [
+      {
+        "mod": "Terraria",
+        "name": "Queen Bee",
+        "id": 222
+      }
+    ],
+    "Terraria\tBottled Honey\t1134": [
+      {
+        "mod": "Terraria",
+        "name": "Queen Bee",
+        "id": 222
+      }
+    ],
+    "Terraria\tRain Hat\t1135": [
+      {
+        "mod": "Terraria",
+        "name": "Raincoat Zombie",
+        "id": 223
+      }
+    ],
+    "Terraria\tRain Coat\t1136": [
+      {
+        "mod": "Terraria",
+        "name": "Raincoat Zombie",
+        "id": 223
+      }
+    ],
+    "Terraria\tUmbrella Hat\t1243": [
+      {
+        "mod": "Terraria",
+        "name": "Umbrella Slime",
+        "id": 225
+      }
+    ],
+    "Terraria\tPaintball Gun\t3350": [
+      {
+        "mod": "Terraria",
+        "name": "Painter",
+        "id": 227
+      }
+    ],
+    "Terraria\tIce Feather\t1519": [
+      {
+        "mod": "Terraria",
+        "name": "Ice Golem",
+        "id": 243
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowyOwl"
+      }
+    ],
+    "Terraria\tFrost Core\t2161": [
+      {
+        "mod": "Terraria",
+        "name": "Ice Golem",
+        "id": 243
+      }
+    ],
+    "Terraria\tRainbow Brick\t662": [
+      {
+        "mod": "Terraria",
+        "name": "Rainbow Slime",
+        "id": 244
+      }
+    ],
+    "Terraria\tGolem Trophy\t1371": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "AlchemistNPC\tPaperTube3": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      },
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      },
+      {
+        "mod": "Terraria",
+        "name": "Duke Fishron",
+        "id": 370
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Core",
+        "id": 398
+      }
+    ],
+    "Terraria\tNimbus Rod\t1244": [
+      {
+        "mod": "Terraria",
+        "name": "Angry Nimbus",
+        "id": 250
+      }
+    ],
+    "Terraria\tEye Spring\t1311": [
+      {
+        "mod": "Terraria",
+        "name": "Eyezor",
+        "id": 251
+      }
+    ],
+    "Terraria\tDeath Sickle\t1327": [
+      {
+        "mod": "Terraria",
+        "name": "Reaper",
+        "id": 253
+      }
+    ],
+    "Terraria\tPlantera Trophy\t1370": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tBrain of Cthulhu Trophy\t1362": [
+      {
+        "mod": "Terraria",
+        "name": "Brain of Cthulhu",
+        "id": 266
+      }
+    ],
+    "Terraria\tIchor\t1332": [
+      {
+        "mod": "Terraria",
+        "name": "Ichor Sticker",
+        "id": 268
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tainted Ghoul",
+        "id": 526
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BlisterPod"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CrimipedeHead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "EpiDermon"
+      }
+    ],
+    "Terraria\tBone Feather\t1517": [
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 280
+      }
+    ],
+    "Terraria\tWisp in a Bottle\t1183": [
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 280
+      }
+    ],
+    "Terraria\tKeybrand\t671": [
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 280
+      }
+    ],
+    "Terraria\tMagnet Sphere\t1266": [
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Rusty Armored Bones",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Blue Armored Bones",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hell Armored Bones",
+        "id": 280
+      }
+    ],
+    "Terraria\tSpectre Staff\t1446": [
+      {
+        "mod": "Terraria",
+        "name": "Ragged Caster",
+        "id": 281
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ragged Caster",
+        "id": 282
+      }
+    ],
+    "ThoriumMod\tSunrayStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Phantom"
+      }
+    ],
+    "ThoriumMod\tAvianCartilage": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Nestling"
+      }
+    ],
+    "Terraria\tShadowbeam Staff\t1444": [
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 283
+      },
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 284
+      }
+    ],
+    "Terraria\tInferno Fork\t1445": [
+      {
+        "mod": "Terraria",
+        "name": "Diabolist",
+        "id": 285
+      },
+      {
+        "mod": "Terraria",
+        "name": "Diabolist",
+        "id": 286
+      }
+    ],
+    "Terraria\tBlack Belt\t963": [
+      {
+        "mod": "Terraria",
+        "name": "Bone Lee",
+        "id": 287
+      }
+    ],
+    "Terraria\tTabi\t977": [
+      {
+        "mod": "Terraria",
+        "name": "Bone Lee",
+        "id": 287
+      }
+    ],
+    "Terraria\tEctoplasm\t1508": [
+      {
+        "mod": "Terraria",
+        "name": "Dungeon Spirit",
+        "id": 288
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroPot"
+      }
+    ],
+    "ThoriumMod\tGhostlyGrapple": [
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroPot"
+      }
+    ],
+    "Terraria\tPaladin's Hammer\t1513": [
+      {
+        "mod": "Terraria",
+        "name": "Paladin",
+        "id": 290
+      }
+    ],
+    "ThoriumMod\tMyceliumWhip": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "Terraria\tPaladin's Shield\t938": [
+      {
+        "mod": "Terraria",
+        "name": "Paladin",
+        "id": 290
+      }
+    ],
+    "Terraria\tRifle Scope\t1300": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Sniper",
+        "id": 291
+      }
+    ],
+    "Terraria\tSniper Rifle\t1254": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Sniper",
+        "id": 291
+      }
+    ],
+    "Terraria\tSWAT Helmet\t1514": [
+      {
+        "mod": "Terraria",
+        "name": "Tactical Skeleton",
+        "id": 292
+      }
+    ],
+    "Terraria\tTactical Shotgun\t679": [
+      {
+        "mod": "Terraria",
+        "name": "Tactical Skeleton",
+        "id": 292
+      }
+    ],
+    "Terraria\tRocket Launcher\t759": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Commando",
+        "id": 293
+      }
+    ],
+    "ThoriumMod\tFungalHook": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "Terraria\tRocket I\t771": [
+      {
+        "mod": "Terraria",
+        "name": "Skeleton Commando",
+        "id": 293
+      }
+    ],
+    "ThoriumMod\tMushymenStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "Terraria\tSpooky Wood\t1729": [
+      {
+        "mod": "Terraria",
+        "name": "Mourning Wood",
+        "id": 325
+      },
+      {
+        "mod": "Terraria",
+        "name": "Splinterling",
+        "id": 326
+      }
+    ],
+    "ThoriumMod\tFunggat": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "ThoriumMod\tWeirdMud": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MudMan"
+      }
+    ],
+    "ThoriumMod\tMortarStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MoltenMortar"
+      }
+    ],
+    "ThoriumMod\tSurtrsSword": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MoltenBoulderMimic"
+      }
+    ],
+    "Terraria\tGiant Bow\t1906": [
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Slime",
+        "id": 336
+      }
+    ],
+    "Terraria\tElf Hat\t1943": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie Elf",
+        "id": 338
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Elf",
+        "id": 339
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zombie Elf",
+        "id": 340
+      }
+    ],
+    "Terraria\tElf Pants\t1945": [
+      {
+        "mod": "Terraria",
+        "name": "Zombie Elf",
+        "id": 338
+      }
+    ],
+    "ThoriumMod\tMoonlightStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lycan"
+      }
+    ],
+    "ThoriumMod\tCadaverCornet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "Terraria\tStylish Scissors\t3352": [
+      {
+        "mod": "Terraria",
+        "name": "Stylist",
+        "id": 353
+      }
+    ],
+    "Terraria\tPeddler's Hat\t2222": [
+      {
+        "mod": "Terraria",
+        "name": "Traveling Merchant",
+        "id": 368
+      }
+    ],
+    "Terraria\tDuke Fishron Trophy\t2589": [
+      {
+        "mod": "Terraria",
+        "name": "Duke Fishron",
+        "id": 370
+      }
+    ],
+    "Terraria\tMartian Conduit Plating\t2860": [
+      {
+        "mod": "Terraria",
+        "name": "Brain Scrambler",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ray Gunner",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Officer",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gray Grunt",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Engineer",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigazapper",
+        "id": 389
+      },
+      {
+        "mod": "Terraria",
+        "name": "Scutlix Gunner",
+        "id": 390
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Walker",
+        "id": 520
+      }
+    ],
+    "Terraria\tMartian Costume Mask\t2803": [
+      {
+        "mod": "Terraria",
+        "name": "Brain Scrambler",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ray Gunner",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gray Grunt",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Scutlix Gunner",
+        "id": 390
+      }
+    ],
+    "Terraria\tMartian Costume Shirt\t2804": [
+      {
+        "mod": "Terraria",
+        "name": "Brain Scrambler",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ray Gunner",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gray Grunt",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Scutlix Gunner",
+        "id": 390
+      }
+    ],
+    "Terraria\tMartian Costume Pants\t2805": [
+      {
+        "mod": "Terraria",
+        "name": "Brain Scrambler",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ray Gunner",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gray Grunt",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Scutlix Gunner",
+        "id": 390
+      }
+    ],
+    "Terraria\tMartian Uniform Helmet\t2806": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Officer",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Engineer",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigazapper",
+        "id": 389
+      }
+    ],
+    "Terraria\tMartian Uniform Torso\t2807": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Officer",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Engineer",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigazapper",
+        "id": 389
+      }
+    ],
+    "Terraria\tMartian Uniform Pants\t2808": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Officer",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martian Engineer",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigazapper",
+        "id": 389
+      }
+    ],
+    "ThoriumMod\tCryptWand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "Terraria\tBrain Scrambler\t2771": [
+      {
+        "mod": "Terraria",
+        "name": "Scutlix Gunner",
+        "id": 390
+      }
+    ],
+    "Terraria\tXenopopper\t2797": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tMartian Saucer Trophy\t3358": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "ThoriumMod\tSoulBomb": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tSoulCleaver": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tWitherStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tSoulRender": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tLichTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LichHeadless"
+      }
+    ],
+    "Terraria\tXeno Staff\t2749": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tLaser Machinegun\t2795": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tLaser Drill\t2798": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tElectrosphere Launcher\t2796": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tCharged Blaster Cannon\t2882": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tInflux Waver\t2880": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tCosmic Car Key\t2769": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tAnti-Gravity Hook\t2800": [
+      {
+        "mod": "Terraria",
+        "name": "Martian Saucer",
+        "id": 395
+      }
+    ],
+    "Terraria\tMoon Lord Trophy\t3595": [
+      {
+        "mod": "Terraria",
+        "name": "Moon Lord's Core",
+        "id": 398
+      }
+    ],
+    "Terraria\tVortex Fragment\t3456": [
+      {
+        "mod": "Terraria",
+        "name": "Vortex Pillar",
+        "id": 422
+      }
+    ],
+    "ThoriumMod\tLichHood": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tTheLostCross": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "Terraria\tAncient Cultist Mask\t3372": [
+      {
+        "mod": "Terraria",
+        "name": "Lunatic Cultist",
+        "id": 439
+      }
+    ],
+    "Terraria\tAncient Manipulator\t3549": [
+      {
+        "mod": "Terraria",
+        "name": "Lunatic Cultist",
+        "id": 439
+      }
+    ],
+    "Terraria\tAncient Cultist Trophy\t3357": [
+      {
+        "mod": "Terraria",
+        "name": "Lunatic Cultist",
+        "id": 439
+      }
+    ],
+    "ThoriumMod\tSpiritBand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "Terraria\tClassy Cane\t3351": [
+      {
+        "mod": "Terraria",
+        "name": "Tax Collector",
+        "id": 441
+      }
+    ],
+    "Terraria\tButcher's Chainsaw\t3098": [
+      {
+        "mod": "Terraria",
+        "name": "Butcher",
+        "id": 460
+      }
+    ],
+    "Terraria\tNeptune's Shell\t497": [
+      {
+        "mod": "Terraria",
+        "name": "Creature from the Deep",
+        "id": 461
+      }
+    ],
+    "Terraria\tNail Gun\t3107": [
+      {
+        "mod": "Terraria",
+        "name": "Nailhead",
+        "id": 463
+      }
+    ],
+    "Terraria\tNail\t3108": [
+      {
+        "mod": "Terraria",
+        "name": "Nailhead",
+        "id": 463
+      }
+    ],
+    "Terraria\tPsycho Knife\t3106": [
+      {
+        "mod": "Terraria",
+        "name": "Psycho",
+        "id": 466
+      }
+    ],
+    "Terraria\tDeadly Sphere Staff\t3249": [
+      {
+        "mod": "Terraria",
+        "name": "Deadly Sphere",
+        "id": 467
+      }
+    ],
+    "Terraria\tToxic Flask\t3105": [
+      {
+        "mod": "Terraria",
+        "name": "Dr. Man Fly",
+        "id": 468
+      }
+    ],
+    "Terraria\tShadowflame Bow\t3052": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Summoner",
+        "id": 471
+      }
+    ],
+    "Terraria\tPumpkin Moon Medallion\t1844": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "Terraria\tShadowflame Knife\t3054": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Summoner",
+        "id": 471
+      }
+    ],
+    "Terraria\tShadowflame Hex Doll\t3053": [
+      {
+        "mod": "Terraria",
+        "name": "Goblin Summoner",
+        "id": 471
+      }
+    ],
+    "Terraria\tDart Rifle\t3008": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      }
+    ],
+    "Terraria\tGreater Mana Potion\t500": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      },
+      {
+        "mod": "Terraria",
+        "name": "Jungle Mimic",
+        "id": 476
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LihzardMimic"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "Terraria\tPutrid Scent\t3015": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      }
+    ],
+    "Terraria\tClinger Staff\t3014": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      }
+    ],
+    "Terraria\tWorm Hook\t3023": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      }
+    ],
+    "Terraria\tChain Guillotines\t3012": [
+      {
+        "mod": "Terraria",
+        "name": "Corrupt Mimic",
+        "id": 473
+      }
+    ],
+    "Terraria\tLife Drain\t3006": [
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      }
+    ],
+    "Terraria\tFlesh Knuckles\t3016": [
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      }
+    ],
+    "Terraria\tDart Pistol\t3007": [
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      }
+    ],
+    "Terraria\tTendon Hook\t3020": [
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      }
+    ],
+    "Terraria\tFetid Baghnakhs\t3013": [
+      {
+        "mod": "Terraria",
+        "name": "Crimson Mimic",
+        "id": 474
+      }
+    ],
+    "Terraria\tDaedalus Stormbow\t3029": [
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      }
+    ],
+    "Terraria\tFlying Knife\t3030": [
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      }
+    ],
+    "Terraria\tIlluminant Hook\t3022": [
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      }
+    ],
+    "Terraria\tCrystal Vile Shard\t3051": [
+      {
+        "mod": "Terraria",
+        "name": "Hallowed Mimic",
+        "id": 475
+      }
+    ],
+    "Terraria\tMothron Wings\t2770": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "Terraria\tBroken Hero Sword\t1570": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "ThoriumMod\tCursedCloth": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lich"
+      }
+    ],
+    "ThoriumMod\tAbsintheFury": [
+      {
+        "mod": "ThoriumMod",
+        "name": "JungleBoulderMimic"
+      }
+    ],
+    "ThoriumMod\tVegaPhaser": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Invader"
+      }
+    ],
+    "Terraria\tThe Eye of Cthulhu\t3292": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "Terraria\tPocket Mirror\t3781": [
+      {
+        "mod": "Terraria",
+        "name": "Medusa",
+        "id": 480
+      }
+    ],
+    "Terraria\tMedusa Head\t3269": [
+      {
+        "mod": "Terraria",
+        "name": "Medusa",
+        "id": 480
+      }
+    ],
+    "Terraria\tJavelin\t3094": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tGladiator Helmet\t3187": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "ThoriumMod\tUFOCommunicator": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Invader"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LostProbe"
+      }
+    ],
+    "ThoriumMod\tMoltenCollar": [
+      {
+        "mod": "ThoriumMod",
+        "name": "InfernalHound"
+      }
+    ],
+    "Terraria\tGladiator Leggings\t3189": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "Terraria\tGladiator Breastplate\t3188": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "Terraria\tGranite Block\t3086": [
+      {
+        "mod": "Terraria",
+        "name": "Granite Golem",
+        "id": 482
+      },
+      {
+        "mod": "Terraria",
+        "name": "Granite Elemental",
+        "id": 483
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEradicator"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteFusedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteSurger"
+      }
+    ],
+    "Terraria\tNight Vision Helmet\t3109": [
+      {
+        "mod": "Terraria",
+        "name": "Granite Golem",
+        "id": 482
+      },
+      {
+        "mod": "Terraria",
+        "name": "Granite Elemental",
+        "id": 483
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEradicator"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteFusedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteSurger"
+      }
+    ],
+    "Terraria\tShark Tooth Necklace\t3212": [
+      {
+        "mod": "Terraria",
+        "name": "Blood Zombie",
+        "id": 489
+      },
+      {
+        "mod": "Terraria",
+        "name": "Drippler",
+        "id": 490
+      }
+    ],
+    "Terraria\tMoney Trough\t3213": [
+      {
+        "mod": "Terraria",
+        "name": "Blood Zombie",
+        "id": 489
+      },
+      {
+        "mod": "Terraria",
+        "name": "Drippler",
+        "id": 490
+      }
+    ],
+    "ThoriumMod\tGlacieor": [
+      {
+        "mod": "ThoriumMod",
+        "name": "IceBoulderMimic"
+      }
+    ],
+    "Terraria\tFlying Dutchman Trophy\t3359": [
+      {
+        "mod": "Terraria",
+        "name": "Flying Dutchman",
+        "id": 491
+      }
+    ],
+    "ThoriumMod\tDevilDagger": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tDevilsReach": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tScorn": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tSchmelze": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tGraniteEnergyCore": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEradicator"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteFusedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteSurger"
+      }
+    ],
+    "ThoriumMod\tBoulderProbe": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "Terraria\tStardust Fragment\t3459": [
+      {
+        "mod": "Terraria",
+        "name": "Stardust Pillar",
+        "id": 493
+      }
+    ],
+    "ThoriumMod\tEnergyStormBolter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "ThoriumMod\tEnergyProjector": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "Terraria\tRally\t3285": [
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crawdad",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Giant Shelly",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamander",
+        "id": 506
+      }
+    ],
+    "Terraria\tNebula Fragment\t3457": [
+      {
+        "mod": "Terraria",
+        "name": "Nebula Pillar",
+        "id": 507
+      }
+    ],
+    "Terraria\tMandible Blade\t3772": [
+      {
+        "mod": "Terraria",
+        "name": "Antlion Charger",
+        "id": 508
+      }
+    ],
+    "Terraria\tSolar Fragment\t3458": [
+      {
+        "mod": "Terraria",
+        "name": "Solar Pillar",
+        "id": 517
+      }
+    ],
+    "Terraria\tAncient Cloth\t3794": [
+      {
+        "mod": "Terraria",
+        "name": "Ghoul",
+        "id": 524
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vile Ghoul",
+        "id": 525
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tainted Ghoul",
+        "id": 526
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dreamer Ghoul",
+        "id": 527
+      }
+    ],
+    "Terraria\tSun Mask\t2802": [
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 528
+      }
+    ],
+    "Terraria\tLamia Tail\t3784": [
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 528
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 529
+      }
+    ],
+    "Terraria\tLamia Wraps\t3785": [
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 528
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 529
+      }
+    ],
+    "Terraria\tMoon Mask\t2801": [
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 529
+      }
+    ],
+    "Terraria\tLamia Mask\t3786": [
+      {
+        "mod": "Terraria",
+        "name": "Lamia",
+        "id": 529
+      }
+    ],
+    "ThoriumMod\tGraniteEnergyStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "Terraria\tSturdy Fossil\t3380": [
+      {
+        "mod": "Terraria",
+        "name": "Basilisk",
+        "id": 532
+      }
+    ],
+    "Terraria\tAncient Horn\t3771": [
+      {
+        "mod": "Terraria",
+        "name": "Basilisk",
+        "id": 532
+      }
+    ],
+    "Terraria\tDesert Spirit Lamp\t3795": [
+      {
+        "mod": "Terraria",
+        "name": "Desert Spirit",
+        "id": 533
+      }
+    ],
+    "Terraria\tDjinn's Curse\t3770": [
+      {
+        "mod": "Terraria",
+        "name": "Desert Spirit",
+        "id": 533
+      }
+    ],
+    "Terraria\tWedding Veil\t3478": [
+      {
+        "mod": "Terraria",
+        "name": "The Bride",
+        "id": 536
+      }
+    ],
+    "Terraria\tWedding Dress\t3479": [
+      {
+        "mod": "Terraria",
+        "name": "The Bride",
+        "id": 536
+      }
+    ],
+    "Terraria\tForbidden Fragment\t3783": [
+      {
+        "mod": "Terraria",
+        "name": "Sand Elemental",
+        "id": 541
+      }
+    ],
+    "Terraria\tAle Tosser\t3821": [
+      {
+        "mod": "Terraria",
+        "name": "Tavernkeep",
+        "id": 550
+      }
+    ],
+    "AlchemistNPC\tReversivityCoinTier4": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tBetsy Trophy\t3866": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "AlchemistNPC\tReversivityCoinTier1": [
+      {
+        "mod": "Terraria",
+        "name": "Dark Mage",
+        "id": 564
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mage",
+        "id": 565
+      }
+    ],
+    "Terraria\tDark Mage Trophy\t3867": [
+      {
+        "mod": "Terraria",
+        "name": "Dark Mage",
+        "id": 564
+      },
+      {
+        "mod": "Terraria",
+        "name": "Dark Mage",
+        "id": 565
+      }
+    ],
+    "ThoriumMod\tEnergyMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "AlchemistNPC\tReversivityCoinTier3": [
+      {
+        "mod": "Terraria",
+        "name": "Ogre",
+        "id": 576
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ogre",
+        "id": 577
+      }
+    ],
+    "Terraria\tOgre Trophy\t3868": [
+      {
+        "mod": "Terraria",
+        "name": "Ogre",
+        "id": 576
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ogre",
+        "id": 577
+      }
+    ],
+    "ThoriumMod\tEnergyStormPartisan": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "ThoriumMod\tEnergyStormTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEnergyStorm"
+      }
+    ],
+    "ThoriumMod\tSpikeBomb": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinTrapper"
+      }
+    ],
+    "ThoriumMod\tYewWood": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinDrummer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinSpiritGuide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GoblinTrapper"
+      }
+    ],
+    "ThoriumMod\tGnomePick": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Gnomes"
+      }
+    ],
+    "ThoriumMod\tIntactGeode": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GlitteringGolem"
+      }
+    ],
+    "ThoriumMod\tGlitteringGreaves": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedSlime"
+      }
+    ],
+    "ThoriumMod\tGlitteringChestplate": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedLycan"
+      }
+    ],
+    "ThoriumMod\tGlitteringHelmet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedBat"
+      }
+    ],
+    "ThoriumMod\tJelly": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GelatinousCube"
+      }
+    ],
+    "ThoriumMod\tMoltenScale": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FlamekinCaster"
+      }
+    ],
+    "ThoriumMod\tNightSoulDust": [
+      {
+        "mod": "ThoriumMod",
+        "name": "EpiDermon"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SoulCorrupter"
+      }
+    ],
+    "ThoriumMod\tSlagMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "ThoriumMod\tRagBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RealityBreaker"
+      }
+    ],
+    "ThoriumMod\tOmniMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      }
+    ],
+    "ThoriumMod\tAquaMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      }
+    ],
+    "ThoriumMod\tRagTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "ThoriumMod\tOceanEssence": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "ThoriumMod\tDeathEssence": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "ThoriumMod\tInfernoEssence": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Aquaius2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Omnicide"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SlagFury"
+      }
+    ],
+    "ThoriumMod\tSmoothCoal": [
+      {
+        "mod": "ThoriumMod",
+        "name": "EarthenBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "EarthenGolem"
+      }
+    ],
+    "ThoriumMod\tGreenDragonScale": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DragonHornet"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TheStarved"
+      }
+    ],
+    "ThoriumMod\tThoriumCube": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Diverman"
+      }
+    ],
+    "ThoriumMod\tWhaleSummon": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Whale"
+      }
+    ],
+    "ThoriumMod\tVampireGland": [
+      {
+        "mod": "ThoriumMod",
+        "name": "VampireSquid"
+      }
+    ],
+    "ThoriumMod\tStarfishSlicer": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ManofWar"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Octopus"
+      }
+    ],
+    "ThoriumMod\tLeviathan": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Kraken"
+      }
+    ],
+    "ThoriumMod\tCartlidgedCatcher": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Hammerhead"
+      }
+    ],
+    "ThoriumMod\tAnglerBulb": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Globee"
+      }
+    ],
+    "ThoriumMod\tNanoClamCane": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GigaClam"
+      }
+    ],
+    "ThoriumMod\tPearl": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GigaClam"
+      }
+    ],
+    "ThoriumMod\tVoltHatchet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "EelHead"
+      }
+    ],
+    "ThoriumMod\tHydromancerCatalyst": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      }
+    ],
+    "ThoriumMod\tNeptuneGrasp": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      }
+    ],
+    "ThoriumMod\tPoseidonCharge": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      }
+    ],
+    "ThoriumMod\tSharkStormMK": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DepthMimic"
+      }
+    ],
+    "ThoriumMod\tSpinyShell": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CrownofThorns"
+      }
+    ],
+    "ThoriumMod\tBrackMud": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CrownofThorns"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Kraken"
+      }
+    ],
+    "ThoriumMod\tGoldenScale": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Barracuda"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Hammerhead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Sharptooth"
+      }
+    ],
+    "Terraria\tJungle Spores\t331": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomStalker"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CorpseBloom"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GreenHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FlyingBioMass"
+      }
+    ],
+    "ThoriumMod\tDepthScale": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Barracuda"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Blowfish"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Hammerhead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Sharptooth"
+      }
+    ],
+    "ThoriumMod\tAbyssalShadow": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AquaticHallucination"
+      }
+    ],
+    "Terraria\tRich Mahogany\t620": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomMahoganyEnt"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "MahoganyEnt"
+      }
+    ],
+    "ThoriumMod\tAbyssionBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionReleased"
+      }
+    ],
+    "ThoriumMod\tSirensAllure": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tOldGodGrasp": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tWhisperingLeggings": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tWhisperingTabard": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tWhisperingHood": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tTheIncubator": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tTrenchSpitter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tAbyssionTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionReleased"
+      }
+    ],
+    "ThoriumMod\tAbyssionMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tMantisPunch": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssionCracked"
+      }
+    ],
+    "ThoriumMod\tAbyssalChitin": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssalAngler"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AbyssalAngler2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Blobfish"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CrownofThorns"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "EelHead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FeedingFrenzy"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FeedingFrenzy2"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Kraken"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "PutridSerpent"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "VampireSquid"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Whale"
+      }
+    ],
+    "ThoriumMod\tGrayDPaintingItem": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DarksteelKnight"
+      }
+    ],
+    "ThoriumMod\tBrokenDarksteelHelmet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DarksteelKnight"
+      }
+    ],
+    "ThoriumMod\tDarksteelCore": [
+      {
+        "mod": "ThoriumMod",
+        "name": "DarksteelKnight"
+      }
+    ],
+    "ThoriumMod\tIcyShard": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Coolmera"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenFace"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowBall"
+      }
+    ],
+    "Terraria\tPink Gel\t3111": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Blobfish"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tMeatBallStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Coolmera"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenFace"
+      }
+    ],
+    "Terraria\tHellstone\t174": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RedHag"
+      }
+    ],
+    "Terraria\tObsidian\t173": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RedHag"
+      }
+    ],
+    "Terraria\tCloud\t751": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CyanHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "WindElemental"
+      }
+    ],
+    "ThoriumMod\tVanquisherMedal": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlueHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CyanHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GreenHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RedHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedLycan"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
+      }
+    ],
+    "ThoriumMod\tAquaite": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlueHag"
+      }
+    ],
+    "Terraria\tCoral\t275": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlueHag"
+      }
+    ],
+    "ThoriumMod\tSpineBuster": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Coldling"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrozenGross"
+      }
+    ],
+    "ThoriumMod\tAncientDrachma": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CoinBagCopper"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CoinBagGold"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CoinBagSilver"
+      }
+    ],
+    "ThoriumMod\tFrostPlagueStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ChilledSpitter"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Freezer"
+      }
+    ],
+    "ThoriumMod\tChampionsGodHand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tChampionBomberStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tChampionBlade": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tChampionsBarrier": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tChampionHelmet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tHeroTripleBow": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tChampionTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheBuriedWarrior"
+      }
+    ],
+    "ThoriumMod\tMoltenResidue": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoneFlayer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "EpiDermon"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "InfernalHound"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "MoltenMortar"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SoulCorrupter"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot1"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot2"
+      }
+    ],
+    "ThoriumMod\tBoneFlayerTail": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoneFlayer"
+      }
+    ],
+    "Terraria\tSuper Healing Potion\t3544": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "BillCipher"
+      },
+      {
+        "mod": "AlchemistNPC",
+        "name": "Knuckles"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RealityBreaker"
+      }
+    ],
+    "ThoriumMod\tPetal": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomingHornet"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomMahoganyEnt"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "StrangeBulb"
+      }
+    ],
+    "ThoriumMod\tBloomGuard": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CorpseBloom"
+      }
+    ],
+    "ThoriumMod\tBlackCatEars": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Warg"
+      }
+    ],
+    "ThoriumMod\tEvisceratingClaw": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Warg"
+      }
+    ],
+    "Terraria\tGold Bar\t19": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedLycan"
+      }
+    ],
+    "ThoriumMod\tBattleHorn": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Warg"
+      }
+    ],
+    "ThoriumMod\tCarnivoreTail": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Warg"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Lycan"
+      }
+    ],
+    "ThoriumMod\tShadeBand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Shade"
+      }
+    ],
+    "Terraria\tGold Ore\t13": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedSlimeMini"
+      }
+    ],
+    "Terraria\tCrystal Shard\t502": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GlitteringGolem"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tGraveBuster": [
+      {
+        "mod": "ThoriumMod",
+        "name": "PatchWerk"
+      }
+    ],
+    "ThoriumMod\tGoodBook": [
+      {
+        "mod": "ThoriumMod",
+        "name": "PatchWerk"
+      }
+    ],
+    "ThoriumMod\tTechniqueBloodLotus": [
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroticImbuer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Shade"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Warg"
+      }
+    ],
+    "ThoriumMod\tNecroticStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroticImbuer"
+      }
+    ],
+    "ThoriumMod\tDagger": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ImpaledZombie"
+      }
+    ],
+    "ThoriumMod\tSeveredHand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraveLimb"
+      }
+    ],
+    "ThoriumMod\tLostMail": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowyOwl"
+      }
+    ],
+    "ThoriumMod\tBlizzardsEdge": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostBurntFlayer"
+      }
+    ],
+    "ThoriumMod\tCryoFang": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tGlacierFang": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tFrostFang": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tFreezeRay": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tTundraLordCrown": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tGlacialSting": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tBoreanTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BoreanStriderPopped"
+      }
+    ],
+    "ThoriumMod\tIceFairyStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlizzardBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowElemental"
+      }
+    ],
+    "ThoriumMod\tStriderTear": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlizzardBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostBurnt"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FrostBurntFlayer"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowElemental"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowyOwl"
+      }
+    ],
+    "ThoriumMod\tBlisterSack": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlisterPod"
+      }
+    ],
+    "Terraria\tChlorophyte Bullet\t1179": [],
+    "Terraria\tChlorophyte Arrow\t1235": [],
+    "ThoriumMod\tUnfathomableFlesh": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlisterPod"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CrimipedeHead"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FleshyHornet"
+      }
+    ],
+    "ThoriumMod\tBlackHammer": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Blacksmith"
+      }
+    ],
+    "ThoriumMod\tBlood": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Biter"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BloodDrop"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GorgedEye"
+      }
+    ],
+    "ThoriumMod\tGraveGoods": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BigBone"
+      }
+    ],
+    "ThoriumMod\tDemonFireBlastWand": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tThermogenicImpaler": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tDevilPauldron": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tBeholderTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder2"
+      }
+    ],
+    "ThoriumMod\tBeholderMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tCarKey": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tEyeofBeholder": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tVoidPlanter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tObliterator": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder"
+      }
+    ],
+    "ThoriumMod\tSonarCannon": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tBatScythe": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tViscountCane": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tDraculaFang": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tVampireScepter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tGuanoGunner": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tViscountTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tViscountMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tBatWing": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Viscount"
+      }
+    ],
+    "ThoriumMod\tRedHourglass": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BabySpider"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "BabySpiderWall"
+      }
+    ],
+    "ThoriumMod\tBioPod": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AstroBeetle"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Invader"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LostProbe"
+      }
+    ],
+    "ThoriumMod\tAstroBeetleHusk": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AstroBeetle"
+      }
+    ],
+    "ThoriumMod\tHiveMind": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ArmyAnt"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FireAnt"
+      }
+    ],
+    "ThoriumMod\tAncientAegis": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "ThoriumMod\tOlympicTorch": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "Terraria\tRain Cloud\t765": [],
+    "ThoriumMod\tBronzeFragments": [
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientArcher"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientCharger"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "AncientPhalanx"
+      }
+    ],
+    "AlchemistNPC\tBillCipherBag": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "BillCipher"
+      }
+    ],
+    "AlchemistNPC\tKnucklesBag": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "Knuckles"
+      }
+    ],
+    "ThoriumMod\tAlienTech": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SpaceSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UFO"
+      }
+    ],
+    "ThoriumMod\tLightSoulDust": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tPrismiteStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tArthropod": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Tarantula"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TarantulaWall"
+      }
+    ],
+    "ThoriumMod\tDesecratedHeart": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheStarved"
+      }
+    ],
+    "ThoriumMod\tThunderBirdTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tSandStone": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tHatchlingStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tBirdMask": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tZephyr": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tDidgeridoo": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tThunderTalon": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tDetachedUFOBlaster": [
+      {
+        "mod": "ThoriumMod",
+        "name": "UFO"
+      }
+    ],
+    "ThoriumMod\tHotPot": [
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot1"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot2"
+      }
+    ],
+    "ThoriumMod\tVileSpitter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "VileFloater"
+      }
+    ],
+    "ThoriumMod\tExileHelmet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "WeaponMaster"
+      }
+    ],
+    "ThoriumMod\tZapper": [
+      {
+        "mod": "ThoriumMod",
+        "name": "WindElemental"
+      }
+    ]
+  }
+}

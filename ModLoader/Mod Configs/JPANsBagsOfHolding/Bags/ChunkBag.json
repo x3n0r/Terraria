@@ -1,0 +1,13 @@
+{
+  "disableBag": false,
+  "leftClickOnFloor": true,
+  "leftClickOnChest": true,
+  "leftClickOnPiggyBank": true,
+  "order": [
+    "68",
+    "ThoriumMod:LodeStoneChunk",
+    "ThoriumMod:ValadiumChunk",
+    "ThoriumMod:IllumiteChunk"
+  ],
+  "noPickup": []
+}

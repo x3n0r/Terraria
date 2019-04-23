@@ -1,5 +1,8 @@
 {
   "World": {
-    "world1.wld": false
+    "world1.wld": true
+  },
+  "Player": {
+    "x3n0r.plr": true
   }
 }

@@ -1,0 +1,9 @@
+{
+  "disableBag": false,
+  "leftClickOnFloor": true,
+  "leftClickOnChest": true,
+  "leftClickOnPiggyBank": true,
+  "coinPickup": true,
+  "blacklist": [],
+  "noPickup": []
+}

@@ -1,0 +1,24 @@
+{
+  "disableBag": false,
+  "leftClickOnFloor": true,
+  "leftClickOnChest": true,
+  "leftClickOnPiggyBank": true,
+  "order": [
+    "3385",
+    "3386",
+    "3387",
+    "3388",
+    "1119",
+    "1114",
+    "1110",
+    "1112",
+    "1108",
+    "1107",
+    "1116",
+    "1109",
+    "1111",
+    "1117",
+    "1113"
+  ],
+  "noPickup": []
+}

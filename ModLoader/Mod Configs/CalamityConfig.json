@@ -1,0 +1,14 @@
+{
+  "AdrenalineAndRage": true,
+  "ExpertDebuffDurationReduction": true,
+  "ExpertChilledWaterRemoval": true,
+  "ProficiencyEnabled": true,
+  "MiningSpeedBoost": false,
+  "DisableExpertEnemySpawnsNearHouse": true,
+  "ExpertPillarEnemyKillCountReduction": true,
+  "LethalLava": true,
+  "RageMeterXPos": 500,
+  "RageMeterYPos": 30,
+  "AdrenalineMeterXPos": 650,
+  "AdrenalineMeterYPos": 30
+}

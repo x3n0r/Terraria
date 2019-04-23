@@ -1,0 +1,33 @@
+{
+  "disableBag": false,
+  "leftClickOnFloor": true,
+  "leftClickOnChest": true,
+  "leftClickOnPiggyBank": true,
+  "order": [
+    "9",
+    "2503",
+    "620",
+    "619",
+    "911",
+    "621",
+    "2504",
+    "1729",
+    "27",
+    "276",
+    "ThoriumMod:YewWood",
+    "CrystiliumMod:CrystalWood",
+    "SpiritMod:SpiritWoodItem",
+    "Tremor:GlacierWood",
+    "CosmeticVariety:Floralwood",
+    "CosmeticVariety:Starwood",
+    "CosmeticVariety:Starseed",
+    "EA:Item_3382",
+    "EA:Item_3604",
+    "EA:Item_3050",
+    "Erilipah:GrayscaleWood",
+    "Exodus:DarkWood",
+    "SacredTools:FrostWood",
+    "SacredTools:FlameWood"
+  ],
+  "noPickup": []
+}

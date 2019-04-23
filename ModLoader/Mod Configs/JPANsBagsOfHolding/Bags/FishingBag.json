@@ -1,0 +1,8 @@
+{
+  "disableBag": false,
+  "leftClickOnFloor": true,
+  "leftClickOnChest": true,
+  "leftClickOnPiggyBank": true,
+  "order": [],
+  "noPickup": []
+}

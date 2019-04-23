@@ -1,0 +1,10 @@
+{
+  "World": {
+    "TmodLoader.wld": false,
+    "Thorium.wld": true,
+    "CalThor.wld": false
+  },
+  "Player": {
+    "Thorium.plr": true
+  }
+}
