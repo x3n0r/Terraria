@@ -1,5 +1,4 @@
 [
-  "ThoriumMod",
   "JPANsBagsOfHoldingMod",
   "AlchemistNPC",
   "MagicStorage",
@@ -9,5 +8,6 @@
   "BossExpertise",
   "TPUnchained",
   "BossChecklist",
-  "BossCursor"
+  "BossCursor",
+  "ThoriumMod"
 ]
