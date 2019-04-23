@@ -1,6 +1,5 @@
-04-21-2019 20:12:43: Starting TEdit 3.10.17116.2025 
-04-21-2019 20:12:43: OS: Microsoft Windows NT 6.2.9200.0 
-04-21-2019 20:12:43: Terraria v1.3.5.1 
-04-21-2019 20:12:43: Terraria Data Path: C:\Program Files (x86)\Steam\steamapps\common\Terraria\Content 
-04-21-2019 20:12:43: Creating Undo cache: C:\Users\Christopher\AppData\Roaming\TEdit\undo_219898028 
-04-23-2019 08:02:57: Removing undo cache: C:\Users\Christopher\AppData\Roaming\TEdit\undo_219898028 
+04-23-2019 10:59:05: Starting TEdit 3.10.18105.2203 
+04-23-2019 10:59:05: OS: Microsoft Windows NT 6.1.7601 Service Pack 1 
+04-23-2019 10:59:07: Terraria v1.3.5.1 
+04-23-2019 10:59:07: Terraria Data Path: c:\users\a3270\steam\steamapps\common\terraria\Content 
+04-23-2019 10:59:08: Creating Undo cache: C:\Users\A3270\AppData\Roaming\TEdit\undo_484377089 
