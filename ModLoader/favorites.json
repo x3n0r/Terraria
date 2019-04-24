@@ -2,7 +2,8 @@
   "World": {
     "TmodLoader.wld": false,
     "Thorium.wld": true,
-    "CalThor.wld": false
+    "CalThor.wld": false,
+    "Testing.wld": false
   },
   "Player": {
     "Thorium.plr": true

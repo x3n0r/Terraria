@@ -1,0 +1,16 @@
+{
+  "ItemBrowser": true,
+  "NPCBrowser": true,
+  "RecipeBrowser": true,
+  "MinionBooster": true,
+  "PaintTools": true,
+  "ExtraAccessorySlots": true,
+  "Butcher": true,
+  "Waypoints": true,
+  "SpawnRate": true,
+  "ModExtensions": true,
+  "ClearMenu": true,
+  "Vacuum": true,
+  "LightHack": true,
+  "GodMode": true
+}

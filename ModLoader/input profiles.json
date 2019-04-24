@@ -556,6 +556,7 @@
       "Hotbar10": ["D0"],
       "ViewZoomIn": ["OemPlus"],
       "ViewZoomOut": ["OemMinus"],
+      "CheatSheet: Toggle Cheat Sheet Hotbar": ["K"],
       "ThoriumMod: Special Ability": ["G"],
       "AlchemistNPC: Lamp Light Toggle": ["I"],
       "AlchemistNPC: Discord Buff Teleportation": ["K"],
