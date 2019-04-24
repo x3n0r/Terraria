@@ -1,18 +1,20 @@
 {
   "recipeBrowserVersion": "0.7.2",
-  "lastUpdateTime": 30,
+  "lastUpdateTime": 18,
   "cachedMods": {
     "WingSlot": "1.6.2",
     "MaxStackExtra": "1.0.2",
     "MagicStorage": "0.4.3.3",
     "JPANsBagsOfHoldingMod": "1.4",
     "AlchemistNPC": "8.4",
-    "ThoriumMod": "1.6.0.0",
+    "ThoriumMod": "1.6.0.2",
     "Terraria": "0.10.1.5",
     "BossExpertise": "2.8",
     "TPUnchained": "1.1",
     "BossCursor": "1.2.1",
-    "BossChecklist": "0.2.1"
+    "BossChecklist": "0.2.1",
+    "CheatSheet": "0.5.0.2",
+    "TestMod": "0.1"
   },
   "lootInfos": {
     "Terraria\t\t0": [
@@ -1054,12 +1056,6 @@
         "id": 506
       }
     ],
-    "ThoriumMod\tEskimoBanjo": [
-      {
-        "mod": "ThoriumMod",
-        "name": "SnowSinga"
-      }
-    ],
     "Terraria\tAncient Iron Helmet\t954": [
       {
         "mod": "Terraria",
@@ -1360,12 +1356,6 @@
         "name": "GoblinTrapper"
       }
     ],
-    "ThoriumMod\tHailBomber": [
-      {
-        "mod": "ThoriumMod",
-        "name": "SnowSinga"
-      }
-    ],
     "Terraria\tSpiky Ball\t161": [
       {
         "mod": "Terraria",
@@ -1630,23 +1620,11 @@
         "name": "Spectrumite"
       }
     ],
-    "ThoriumMod\tBallnChain": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Shambler"
-      }
-    ],
     "Terraria\tSkeletron Trophy\t1363": [
       {
         "mod": "Terraria",
         "name": "Skeletron",
         "id": 35
-      }
-    ],
-    "ThoriumMod\tDistressCaller": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
       }
     ],
     "Terraria\tBezoar\t887": [
@@ -1968,12 +1946,6 @@
         "name": "Nestling"
       }
     ],
-    "ThoriumMod\tGaussKnife": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
-      }
-    ],
     "Terraria\tChain Knife\t1325": [
       {
         "mod": "Terraria",
@@ -2082,12 +2054,6 @@
         "id": 52
       }
     ],
-    "ThoriumMod\tStarRod": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
-      }
-    ],
     "Terraria\tTop Hat\t239": [
       {
         "mod": "Terraria",
@@ -2124,12 +2090,6 @@
         "mod": "Terraria",
         "name": "Lava Bat",
         "id": 151
-      }
-    ],
-    "ThoriumMod\tStarTrail": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
       }
     ],
     "Terraria\tDemon Scythe\t272": [
@@ -2180,12 +2140,6 @@
       {
         "mod": "ThoriumMod",
         "name": "ManofWar"
-      }
-    ],
-    "ThoriumMod\tHitScanner": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
       }
     ],
     "Terraria\tDiving Helmet\t268": [
@@ -2370,12 +2324,6 @@
         "id": 75
       }
     ],
-    "ThoriumMod\tGaussSpark": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
-      }
-    ],
     "Terraria\tBeam Sword\t723": [
       {
         "mod": "Terraria",
@@ -2534,18 +2482,6 @@
         "id": 545
       }
     ],
-    "ThoriumMod\tStarMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
-      }
-    ],
-    "ThoriumMod\tScouterTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ThePrimeScouter"
-      }
-    ],
     "Terraria\tUnicorn Horn\t526": [
       {
         "mod": "Terraria",
@@ -2565,12 +2501,6 @@
         "mod": "Terraria",
         "name": "Wyvern",
         "id": 87
-      }
-    ],
-    "ThoriumMod\tStalkersSnippers": [
-      {
-        "mod": "ThoriumMod",
-        "name": "ScissorStalker"
       }
     ],
     "Terraria\tVitamins\t892": [
@@ -2659,12 +2589,6 @@
       {
         "mod": "ThoriumMod",
         "name": "Lycan"
-      }
-    ],
-    "ThoriumMod\tStoneSledge": [
-      {
-        "mod": "ThoriumMod",
-        "name": "RockBoulderMimic"
       }
     ],
     "Terraria\tBananarang\t1324": [
@@ -2832,10 +2756,6 @@
       },
       {
         "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      },
-      {
-        "mod": "ThoriumMod",
         "name": "AbyssionReleased"
       },
       {
@@ -2845,10 +2765,6 @@
       {
         "mod": "ThoriumMod",
         "name": "HellBringerMimic"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
       },
       {
         "mod": "ThoriumMod",
@@ -2905,59 +2821,11 @@
         "name": "SnowSinga"
       }
     ],
-    "ThoriumMod\tMinotaurSkull": [
-      {
-        "mod": "ThoriumMod",
-        "name": "RagingMinotaur"
-      }
-    ],
-    "ThoriumMod\tJellyPondWand": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
-    "ThoriumMod\tGiantGlowstick": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
-    "ThoriumMod\tConchShell": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
-    "ThoriumMod\tBlunderBuss": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
-    "ThoriumMod\tJellyfishHat": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
     "Terraria\tTurtle Shell\t1328": [
       {
         "mod": "Terraria",
         "name": "Giant Tortoise",
         "id": 153
-      }
-    ],
-    "ThoriumMod\tQueensGlowstick": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
-    "ThoriumMod\tSparkingJellyBall": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
       }
     ],
     "Terraria\tFrozen Turtle Shell\t1253": [
@@ -3043,12 +2911,6 @@
         "mod": "Terraria",
         "name": "Zombie Eskimo",
         "id": 431
-      }
-    ],
-    "ThoriumMod\tQueenJellyfishTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
       }
     ],
     "Terraria\tPoison Staff\t1308": [
@@ -3234,12 +3096,6 @@
       {
         "mod": "ThoriumMod",
         "name": "FrozenGross"
-      }
-    ],
-    "ThoriumMod\tSunflareGuitar": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Phantom"
       }
     ],
     "Terraria\tMeat Grinder\t996": [
@@ -4637,18 +4493,6 @@
         "id": 282
       }
     ],
-    "ThoriumMod\tSunrayStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Phantom"
-      }
-    ],
-    "ThoriumMod\tAvianCartilage": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Nestling"
-      }
-    ],
     "Terraria\tShadowbeam Staff\t1444": [
       {
         "mod": "Terraria",
@@ -4698,23 +4542,11 @@
         "name": "NecroPot"
       }
     ],
-    "ThoriumMod\tGhostlyGrapple": [
-      {
-        "mod": "ThoriumMod",
-        "name": "NecroPot"
-      }
-    ],
     "Terraria\tPaladin's Hammer\t1513": [
       {
         "mod": "Terraria",
         "name": "Paladin",
         "id": 290
-      }
-    ],
-    "ThoriumMod\tMyceliumWhip": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MyceliumMimic"
       }
     ],
     "Terraria\tPaladin's Shield\t938": [
@@ -4759,23 +4591,11 @@
         "id": 293
       }
     ],
-    "ThoriumMod\tFungalHook": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MyceliumMimic"
-      }
-    ],
     "Terraria\tRocket I\t771": [
       {
         "mod": "Terraria",
         "name": "Skeleton Commando",
         "id": 293
-      }
-    ],
-    "ThoriumMod\tMushymenStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MyceliumMimic"
       }
     ],
     "Terraria\tSpooky Wood\t1729": [
@@ -4788,30 +4608,6 @@
         "mod": "Terraria",
         "name": "Splinterling",
         "id": 326
-      }
-    ],
-    "ThoriumMod\tFunggat": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MyceliumMimic"
-      }
-    ],
-    "ThoriumMod\tWeirdMud": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MudMan"
-      }
-    ],
-    "ThoriumMod\tMortarStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MoltenMortar"
-      }
-    ],
-    "ThoriumMod\tSurtrsSword": [
-      {
-        "mod": "ThoriumMod",
-        "name": "MoltenBoulderMimic"
       }
     ],
     "Terraria\tGiant Bow\t1906": [
@@ -4858,18 +4654,6 @@
         "mod": "Terraria",
         "name": "Zombie Elf",
         "id": 338
-      }
-    ],
-    "ThoriumMod\tMoonlightStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lycan"
-      }
-    ],
-    "ThoriumMod\tCadaverCornet": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
       }
     ],
     "Terraria\tStylish Scissors\t3352": [
@@ -5052,12 +4836,6 @@
         "id": 389
       }
     ],
-    "ThoriumMod\tCryptWand": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
     "Terraria\tBrain Scrambler\t2771": [
       {
         "mod": "Terraria",
@@ -5077,40 +4855,6 @@
         "mod": "Terraria",
         "name": "Martian Saucer",
         "id": 395
-      }
-    ],
-    "ThoriumMod\tSoulBomb": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tSoulCleaver": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tWitherStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tSoulRender": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tLichTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "LichHeadless"
       }
     ],
     "Terraria\tXeno Staff\t2749": [
@@ -5183,18 +4927,6 @@
         "id": 422
       }
     ],
-    "ThoriumMod\tLichHood": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tTheLostCross": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
     "Terraria\tAncient Cultist Mask\t3372": [
       {
         "mod": "Terraria",
@@ -5214,12 +4946,6 @@
         "mod": "Terraria",
         "name": "Lunatic Cultist",
         "id": 439
-      }
-    ],
-    "ThoriumMod\tSpiritBand": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
       }
     ],
     "Terraria\tClassy Cane\t3351": [
@@ -5285,12 +5011,7 @@
         "id": 471
       }
     ],
-    "Terraria\tPumpkin Moon Medallion\t1844": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
+    "Terraria\tPumpkin Moon Medallion\t1844": [],
     "Terraria\tShadowflame Knife\t3054": [
       {
         "mod": "Terraria",
@@ -5455,24 +5176,6 @@
         "id": 477
       }
     ],
-    "ThoriumMod\tCursedCloth": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Lich"
-      }
-    ],
-    "ThoriumMod\tAbsintheFury": [
-      {
-        "mod": "ThoriumMod",
-        "name": "JungleBoulderMimic"
-      }
-    ],
-    "ThoriumMod\tVegaPhaser": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Invader"
-      }
-    ],
     "Terraria\tThe Eye of Cthulhu\t3292": [
       {
         "mod": "Terraria",
@@ -5518,22 +5221,6 @@
       {
         "mod": "ThoriumMod",
         "name": "AncientPhalanx"
-      }
-    ],
-    "ThoriumMod\tUFOCommunicator": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Invader"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "LostProbe"
-      }
-    ],
-    "ThoriumMod\tMoltenCollar": [
-      {
-        "mod": "ThoriumMod",
-        "name": "InfernalHound"
       }
     ],
     "Terraria\tGladiator Leggings\t3189": [
@@ -5584,10 +5271,6 @@
         "mod": "Terraria",
         "name": "Granite Elemental",
         "id": 483
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
       },
       {
         "mod": "ThoriumMod",
@@ -5650,12 +5333,6 @@
         "id": 490
       }
     ],
-    "ThoriumMod\tGlacieor": [
-      {
-        "mod": "ThoriumMod",
-        "name": "IceBoulderMimic"
-      }
-    ],
     "Terraria\tFlying Dutchman Trophy\t3359": [
       {
         "mod": "Terraria",
@@ -5663,67 +5340,11 @@
         "id": 491
       }
     ],
-    "ThoriumMod\tDevilDagger": [
-      {
-        "mod": "ThoriumMod",
-        "name": "HellBringerMimic"
-      }
-    ],
-    "ThoriumMod\tDevilsReach": [
-      {
-        "mod": "ThoriumMod",
-        "name": "HellBringerMimic"
-      }
-    ],
-    "ThoriumMod\tScorn": [
-      {
-        "mod": "ThoriumMod",
-        "name": "HellBringerMimic"
-      }
-    ],
-    "ThoriumMod\tSchmelze": [
-      {
-        "mod": "ThoriumMod",
-        "name": "HellBringerMimic"
-      }
-    ],
-    "ThoriumMod\tGraniteEnergyCore": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEradicator"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteFusedSlime"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteSurger"
-      }
-    ],
-    "ThoriumMod\tBoulderProbe": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
-      }
-    ],
     "Terraria\tStardust Fragment\t3459": [
       {
         "mod": "Terraria",
         "name": "Stardust Pillar",
         "id": 493
-      }
-    ],
-    "ThoriumMod\tEnergyStormBolter": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
-      }
-    ],
-    "ThoriumMod\tEnergyProjector": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
       }
     ],
     "Terraria\tRally\t3285": [
@@ -5881,12 +5502,6 @@
         "id": 529
       }
     ],
-    "ThoriumMod\tGraniteEnergyStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
-      }
-    ],
     "Terraria\tSturdy Fossil\t3380": [
       {
         "mod": "Terraria",
@@ -5981,12 +5596,6 @@
         "id": 565
       }
     ],
-    "ThoriumMod\tEnergyMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GraniteEnergyStorm"
-      }
-    ],
     "AlchemistNPC\tReversivityCoinTier3": [
       {
         "mod": "Terraria",
@@ -6011,7 +5620,335 @@
         "id": 577
       }
     ],
-    "ThoriumMod\tEnergyStormPartisan": [
+    "ThoriumMod\tZapper": [
+      {
+        "mod": "ThoriumMod",
+        "name": "WindElemental"
+      }
+    ],
+    "ThoriumMod\tExileHelmet": [
+      {
+        "mod": "ThoriumMod",
+        "name": "WeaponMaster"
+      }
+    ],
+    "ThoriumMod\tVileSpitter": [
+      {
+        "mod": "ThoriumMod",
+        "name": "VileFloater"
+      }
+    ],
+    "ThoriumMod\tHotPot": [
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot1"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UnderworldPot2"
+      }
+    ],
+    "ThoriumMod\tDetachedUFOBlaster": [
+      {
+        "mod": "ThoriumMod",
+        "name": "UFO"
+      }
+    ],
+    "ThoriumMod\tThunderBirdBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tThunderBirdTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheGrandThunderBirdv2"
+      }
+    ],
+    "ThoriumMod\tDesecratedHeart": [
+      {
+        "mod": "ThoriumMod",
+        "name": "TheStarved"
+      }
+    ],
+    "ThoriumMod\tArthropod": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Tarantula"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "TarantulaWall"
+      }
+    ],
+    "ThoriumMod\tPrismiteStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tLightSoulDust": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
+      }
+    ],
+    "ThoriumMod\tAlienTech": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SpaceSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "UFO"
+      }
+    ],
+    "ThoriumMod\tEskimoBanjo": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowSinga"
+      }
+    ],
+    "ThoriumMod\tHailBomber": [
+      {
+        "mod": "ThoriumMod",
+        "name": "SnowSinga"
+      }
+    ],
+    "ThoriumMod\tBallnChain": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Shambler"
+      }
+    ],
+    "ThoriumMod\tScouterBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "ThoriumMod\tScouterTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ThePrimeScouter"
+      }
+    ],
+    "ThoriumMod\tStalkersSnippers": [
+      {
+        "mod": "ThoriumMod",
+        "name": "ScissorStalker"
+      }
+    ],
+    "ThoriumMod\tStoneSledge": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RockBoulderMimic"
+      }
+    ],
+    "ThoriumMod\tMinotaurSkull": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
+      }
+    ],
+    "ThoriumMod\tJellyFishBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tQueenJellyfishTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "QueenJelly"
+      }
+    ],
+    "ThoriumMod\tSunflareGuitar": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Phantom"
+      }
+    ],
+    "ThoriumMod\tSunrayStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Phantom"
+      }
+    ],
+    "ThoriumMod\tAvianCartilage": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Nestling"
+      }
+    ],
+    "ThoriumMod\tGhostlyGrapple": [
+      {
+        "mod": "ThoriumMod",
+        "name": "NecroPot"
+      }
+    ],
+    "ThoriumMod\tMyceliumWhip": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "ThoriumMod\tFungalHook": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "ThoriumMod\tMushymenStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "ThoriumMod\tFunggat": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MyceliumMimic"
+      }
+    ],
+    "ThoriumMod\tWeirdMud": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MudMan"
+      }
+    ],
+    "ThoriumMod\tMortarStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MoltenMortar"
+      }
+    ],
+    "ThoriumMod\tSurtrsSword": [
+      {
+        "mod": "ThoriumMod",
+        "name": "MoltenBoulderMimic"
+      }
+    ],
+    "ThoriumMod\tMoonlightStaff": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Lycan"
+      }
+    ],
+    "ThoriumMod\tLichTrophy": [
+      {
+        "mod": "ThoriumMod",
+        "name": "LichHeadless"
+      }
+    ],
+    "ThoriumMod\tLichBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "LichHeadless"
+      }
+    ],
+    "Terraria\tJungle Spores\t331": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomStalker"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "CorpseBloom"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GreenHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "FlyingBioMass"
+      }
+    ],
+    "ThoriumMod\tAbsintheFury": [
+      {
+        "mod": "ThoriumMod",
+        "name": "JungleBoulderMimic"
+      }
+    ],
+    "ThoriumMod\tVegaPhaser": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Invader"
+      }
+    ],
+    "Terraria\tRich Mahogany\t620": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BloomMahoganyEnt"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "MahoganyEnt"
+      }
+    ],
+    "ThoriumMod\tUFOCommunicator": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Invader"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "LostProbe"
+      }
+    ],
+    "ThoriumMod\tMoltenCollar": [
+      {
+        "mod": "ThoriumMod",
+        "name": "InfernalHound"
+      }
+    ],
+    "ThoriumMod\tGlacieor": [
+      {
+        "mod": "ThoriumMod",
+        "name": "IceBoulderMimic"
+      }
+    ],
+    "ThoriumMod\tDevilDagger": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tDevilsReach": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tScorn": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tSchmelze": [
+      {
+        "mod": "ThoriumMod",
+        "name": "HellBringerMimic"
+      }
+    ],
+    "ThoriumMod\tGraniteEnergyCore": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteEradicator"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteFusedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GraniteSurger"
+      }
+    ],
+    "ThoriumMod\tGraniteBag": [
       {
         "mod": "ThoriumMod",
         "name": "GraniteEnergyStorm"
@@ -6067,10 +6004,38 @@
         "name": "GildedLycan"
       }
     ],
+    "Terraria\tPink Gel\t3111": [
+      {
+        "mod": "ThoriumMod",
+        "name": "Blobfish"
+      }
+    ],
     "ThoriumMod\tGlitteringHelmet": [
       {
         "mod": "ThoriumMod",
         "name": "GildedBat"
+      }
+    ],
+    "Terraria\tHellstone\t174": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RedHag"
+      }
+    ],
+    "Terraria\tObsidian\t173": [
+      {
+        "mod": "ThoriumMod",
+        "name": "RedHag"
+      }
+    ],
+    "Terraria\tCloud\t751": [
+      {
+        "mod": "ThoriumMod",
+        "name": "CyanHag"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "WindElemental"
       }
     ],
     "ThoriumMod\tJelly": [
@@ -6085,6 +6050,12 @@
         "name": "FlamekinCaster"
       }
     ],
+    "Terraria\tCoral\t275": [
+      {
+        "mod": "ThoriumMod",
+        "name": "BlueHag"
+      }
+    ],
     "ThoriumMod\tNightSoulDust": [
       {
         "mod": "ThoriumMod",
@@ -6095,84 +6066,10 @@
         "name": "SoulCorrupter"
       }
     ],
-    "ThoriumMod\tSlagMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "SlagFury"
-      }
-    ],
     "ThoriumMod\tRagBag": [
       {
         "mod": "ThoriumMod",
         "name": "RealityBreaker"
-      }
-    ],
-    "ThoriumMod\tOmniMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Omnicide"
-      }
-    ],
-    "ThoriumMod\tAquaMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Aquaius2"
-      }
-    ],
-    "ThoriumMod\tRagTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Aquaius2"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Omnicide"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "SlagFury"
-      }
-    ],
-    "ThoriumMod\tOceanEssence": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Aquaius2"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Omnicide"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "SlagFury"
-      }
-    ],
-    "ThoriumMod\tDeathEssence": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Aquaius2"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Omnicide"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "SlagFury"
-      }
-    ],
-    "ThoriumMod\tInfernoEssence": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Aquaius2"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Omnicide"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "SlagFury"
       }
     ],
     "ThoriumMod\tSmoothCoal": [
@@ -6247,6 +6144,20 @@
         "name": "GigaClam"
       }
     ],
+    "Terraria\tSuper Healing Potion\t3544": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "BillCipher"
+      },
+      {
+        "mod": "AlchemistNPC",
+        "name": "Knuckles"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RealityBreaker"
+      }
+    ],
     "ThoriumMod\tPearl": [
       {
         "mod": "ThoriumMod",
@@ -6271,6 +6182,16 @@
         "name": "DepthMimic"
       }
     ],
+    "Terraria\tGold Bar\t19": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedBat"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedLycan"
+      }
+    ],
     "ThoriumMod\tPoseidonCharge": [
       {
         "mod": "ThoriumMod",
@@ -6287,6 +6208,22 @@
       {
         "mod": "ThoriumMod",
         "name": "CrownofThorns"
+      }
+    ],
+    "Terraria\tGold Ore\t13": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedSlimeMini"
+      }
+    ],
+    "Terraria\tCrystal Shard\t502": [
+      {
+        "mod": "ThoriumMod",
+        "name": "GlitteringGolem"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "Spectrumite"
       }
     ],
     "ThoriumMod\tBrackMud": [
@@ -6313,24 +6250,6 @@
         "name": "Sharptooth"
       }
     ],
-    "Terraria\tJungle Spores\t331": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BloomStalker"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "CorpseBloom"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GreenHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "FlyingBioMass"
-      }
-    ],
     "ThoriumMod\tDepthScale": [
       {
         "mod": "ThoriumMod",
@@ -6355,84 +6274,16 @@
         "name": "AquaticHallucination"
       }
     ],
-    "Terraria\tRich Mahogany\t620": [
+    "ThoriumMod\tAbyssionTrophy": [
       {
         "mod": "ThoriumMod",
-        "name": "BloomMahoganyEnt"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "MahoganyEnt"
+        "name": "AbyssionReleased"
       }
     ],
     "ThoriumMod\tAbyssionBag": [
       {
         "mod": "ThoriumMod",
         "name": "AbyssionReleased"
-      }
-    ],
-    "ThoriumMod\tSirensAllure": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tOldGodGrasp": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tWhisperingLeggings": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tWhisperingTabard": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tWhisperingHood": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tTheIncubator": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tTrenchSpitter": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tAbyssionTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionReleased"
-      }
-    ],
-    "ThoriumMod\tAbyssionMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
-      }
-    ],
-    "ThoriumMod\tMantisPunch": [
-      {
-        "mod": "ThoriumMod",
-        "name": "AbyssionCracked"
       }
     ],
     "ThoriumMod\tAbyssalChitin": [
@@ -6513,16 +6364,6 @@
         "name": "SnowBall"
       }
     ],
-    "Terraria\tPink Gel\t3111": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Blobfish"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "QueenJelly"
-      }
-    ],
     "ThoriumMod\tMeatBallStaff": [
       {
         "mod": "ThoriumMod",
@@ -6533,69 +6374,7 @@
         "name": "FrozenFace"
       }
     ],
-    "Terraria\tHellstone\t174": [
-      {
-        "mod": "ThoriumMod",
-        "name": "RedHag"
-      }
-    ],
-    "Terraria\tObsidian\t173": [
-      {
-        "mod": "ThoriumMod",
-        "name": "RedHag"
-      }
-    ],
-    "Terraria\tCloud\t751": [
-      {
-        "mod": "ThoriumMod",
-        "name": "CyanHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "WindElemental"
-      }
-    ],
-    "ThoriumMod\tVanquisherMedal": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BlueHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "CyanHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GreenHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "RedHag"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedBat"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedLycan"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedSlime"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "RagingMinotaur"
-      }
-    ],
     "ThoriumMod\tAquaite": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BlueHag"
-      }
-    ],
-    "Terraria\tCoral\t275": [
       {
         "mod": "ThoriumMod",
         "name": "BlueHag"
@@ -6635,37 +6414,7 @@
         "name": "Freezer"
       }
     ],
-    "ThoriumMod\tChampionsGodHand": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheBuriedWarrior"
-      }
-    ],
-    "ThoriumMod\tChampionBomberStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheBuriedWarrior"
-      }
-    ],
-    "ThoriumMod\tChampionBlade": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheBuriedWarrior"
-      }
-    ],
-    "ThoriumMod\tChampionsBarrier": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheBuriedWarrior"
-      }
-    ],
-    "ThoriumMod\tChampionHelmet": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheBuriedWarrior"
-      }
-    ],
-    "ThoriumMod\tHeroTripleBow": [
+    "ThoriumMod\tHeroBag": [
       {
         "mod": "ThoriumMod",
         "name": "TheBuriedWarrior"
@@ -6677,6 +6426,8 @@
         "name": "TheBuriedWarrior"
       }
     ],
+    "Terraria\tChlorophyte Bullet\t1179": [],
+    "Terraria\tChlorophyte Arrow\t1235": [],
     "ThoriumMod\tMoltenResidue": [
       {
         "mod": "ThoriumMod",
@@ -6713,20 +6464,6 @@
         "name": "BoneFlayer"
       }
     ],
-    "Terraria\tSuper Healing Potion\t3544": [
-      {
-        "mod": "AlchemistNPC",
-        "name": "BillCipher"
-      },
-      {
-        "mod": "AlchemistNPC",
-        "name": "Knuckles"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "RealityBreaker"
-      }
-    ],
     "ThoriumMod\tPetal": [
       {
         "mod": "ThoriumMod",
@@ -6759,16 +6496,6 @@
         "name": "Warg"
       }
     ],
-    "Terraria\tGold Bar\t19": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedBat"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedLycan"
-      }
-    ],
     "ThoriumMod\tBattleHorn": [
       {
         "mod": "ThoriumMod",
@@ -6789,22 +6516,6 @@
       {
         "mod": "ThoriumMod",
         "name": "Shade"
-      }
-    ],
-    "Terraria\tGold Ore\t13": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GildedSlimeMini"
-      }
-    ],
-    "Terraria\tCrystal Shard\t502": [
-      {
-        "mod": "ThoriumMod",
-        "name": "GlitteringGolem"
-      },
-      {
-        "mod": "ThoriumMod",
-        "name": "Spectrumite"
       }
     ],
     "ThoriumMod\tGraveBuster": [
@@ -6863,37 +6574,7 @@
         "name": "FrostBurntFlayer"
       }
     ],
-    "ThoriumMod\tCryoFang": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BoreanStriderPopped"
-      }
-    ],
-    "ThoriumMod\tGlacierFang": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BoreanStriderPopped"
-      }
-    ],
-    "ThoriumMod\tFrostFang": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BoreanStriderPopped"
-      }
-    ],
-    "ThoriumMod\tFreezeRay": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BoreanStriderPopped"
-      }
-    ],
-    "ThoriumMod\tTundraLordCrown": [
-      {
-        "mod": "ThoriumMod",
-        "name": "BoreanStriderPopped"
-      }
-    ],
-    "ThoriumMod\tGlacialSting": [
+    "ThoriumMod\tBoreanBag": [
       {
         "mod": "ThoriumMod",
         "name": "BoreanStriderPopped"
@@ -6943,8 +6624,6 @@
         "name": "BlisterPod"
       }
     ],
-    "Terraria\tChlorophyte Bullet\t1179": [],
-    "Terraria\tChlorophyte Arrow\t1235": [],
     "ThoriumMod\tUnfathomableFlesh": [
       {
         "mod": "ThoriumMod",
@@ -6985,16 +6664,35 @@
         "name": "BigBone"
       }
     ],
+    "ThoriumMod\tBeholderBag": [
+      {
+        "mod": "ThoriumMod",
+        "name": "FallenDeathBeholder2"
+      }
+    ],
     "ThoriumMod\tDemonFireBlastWand": [
       {
         "mod": "ThoriumMod",
         "name": "FallenDeathBeholder"
       }
     ],
+    "Terraria\tRain Cloud\t765": [],
     "ThoriumMod\tThermogenicImpaler": [
       {
         "mod": "ThoriumMod",
         "name": "FallenDeathBeholder"
+      }
+    ],
+    "AlchemistNPC\tBillCipherBag": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "BillCipher"
+      }
+    ],
+    "AlchemistNPC\tKnucklesBag": [
+      {
+        "mod": "AlchemistNPC",
+        "name": "Knuckles"
       }
     ],
     "ThoriumMod\tDevilPauldron": [
@@ -7043,55 +6741,13 @@
         "name": "FallenDeathBeholder"
       }
     ],
-    "ThoriumMod\tSonarCannon": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tBatScythe": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tViscountCane": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tDraculaFang": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tVampireScepter": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tGuanoGunner": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
     "ThoriumMod\tViscountTrophy": [
       {
         "mod": "ThoriumMod",
         "name": "Viscount"
       }
     ],
-    "ThoriumMod\tViscountMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Viscount"
-      }
-    ],
-    "ThoriumMod\tBatWing": [
+    "ThoriumMod\tCountBag": [
       {
         "mod": "ThoriumMod",
         "name": "Viscount"
@@ -7157,7 +6813,6 @@
         "name": "AncientPhalanx"
       }
     ],
-    "Terraria\tRain Cloud\t765": [],
     "ThoriumMod\tBronzeFragments": [
       {
         "mod": "ThoriumMod",
@@ -7172,130 +6827,42 @@
         "name": "AncientPhalanx"
       }
     ],
-    "AlchemistNPC\tBillCipherBag": [
-      {
-        "mod": "AlchemistNPC",
-        "name": "BillCipher"
-      }
-    ],
-    "AlchemistNPC\tKnucklesBag": [
-      {
-        "mod": "AlchemistNPC",
-        "name": "Knuckles"
-      }
-    ],
-    "ThoriumMod\tAlienTech": [
+    "ThoriumMod\tVanquisherMedal": [
       {
         "mod": "ThoriumMod",
-        "name": "SpaceSlime"
+        "name": "AggroDummy"
       },
       {
         "mod": "ThoriumMod",
-        "name": "UFO"
-      }
-    ],
-    "ThoriumMod\tLightSoulDust": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Spectrumite"
-      }
-    ],
-    "ThoriumMod\tPrismiteStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Spectrumite"
-      }
-    ],
-    "ThoriumMod\tArthropod": [
-      {
-        "mod": "ThoriumMod",
-        "name": "Tarantula"
+        "name": "BlueHag"
       },
       {
         "mod": "ThoriumMod",
-        "name": "TarantulaWall"
-      }
-    ],
-    "ThoriumMod\tDesecratedHeart": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheStarved"
-      }
-    ],
-    "ThoriumMod\tThunderBirdTrophy": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tSandStone": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tHatchlingStaff": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tBirdMask": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tZephyr": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tDidgeridoo": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tThunderTalon": [
-      {
-        "mod": "ThoriumMod",
-        "name": "TheGrandThunderBirdv2"
-      }
-    ],
-    "ThoriumMod\tDetachedUFOBlaster": [
-      {
-        "mod": "ThoriumMod",
-        "name": "UFO"
-      }
-    ],
-    "ThoriumMod\tHotPot": [
-      {
-        "mod": "ThoriumMod",
-        "name": "UnderworldPot1"
+        "name": "CyanHag"
       },
       {
         "mod": "ThoriumMod",
-        "name": "UnderworldPot2"
-      }
-    ],
-    "ThoriumMod\tVileSpitter": [
+        "name": "GreenHag"
+      },
       {
         "mod": "ThoriumMod",
-        "name": "VileFloater"
-      }
-    ],
-    "ThoriumMod\tExileHelmet": [
+        "name": "RedHag"
+      },
       {
         "mod": "ThoriumMod",
-        "name": "WeaponMaster"
-      }
-    ],
-    "ThoriumMod\tZapper": [
+        "name": "GildedBat"
+      },
       {
         "mod": "ThoriumMod",
-        "name": "WindElemental"
+        "name": "GildedLycan"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "GildedSlime"
+      },
+      {
+        "mod": "ThoriumMod",
+        "name": "RagingMinotaur"
       }
     ]
   }

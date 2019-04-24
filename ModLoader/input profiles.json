@@ -556,13 +556,13 @@
       "Hotbar10": ["D0"],
       "ViewZoomIn": ["OemPlus"],
       "ViewZoomOut": ["OemMinus"],
-      "CheatSheet: Toggle Cheat Sheet Hotbar": ["K"],
       "ThoriumMod: Special Ability": ["G"],
       "AlchemistNPC: Lamp Light Toggle": ["I"],
       "AlchemistNPC: Discord Buff Teleportation": ["K"],
       "AlchemistNPC: Pip-Boy Teleportation Menu": ["L"],
       "BossChecklist: Toggle Boss Checklist": ["P"],
       "BossCursor: Toggle Boss Cursor": ["O"],
+      "CheatSheet: Toggle Cheat Sheet Hotbar": ["K"],
       "RecipeBrowser: Toggle Recipe Browser": ["OemPipe"]
     },
     "Gamepad": 
