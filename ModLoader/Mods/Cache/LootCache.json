@@ -1,6 +1,6 @@
 {
   "recipeBrowserVersion": "0.7.2",
-  "lastUpdateTime": 18,
+  "lastUpdateTime": 3,
   "cachedMods": {
     "WingSlot": "1.6.2",
     "MaxStackExtra": "1.0.2",
@@ -14,7 +14,8 @@
     "BossCursor": "1.2.1",
     "BossChecklist": "0.2.1",
     "CheatSheet": "0.5.0.2",
-    "TestMod": "0.1"
+    "TestMod": "0.1",
+    "ModdersToolkit": "0.12"
   },
   "lootInfos": {
     "Terraria\t\t0": [
